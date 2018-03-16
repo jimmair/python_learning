@@ -1,0 +1,765 @@
+deid	admit_to_mar_ts	admit_to_mar_dt	op_to_order	op_to_mar	route_medication_desc	prn_ind	prn_ind_desc	order_catalog_id	order_catalog_desc
+5	0.81944442	0	0	0	intravenous	1	Yes	2206389	morphine
+5	2.3319445	2	1	2	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+5	1.9625	1	1	1	intravenous	1	Yes	2206389	morphine
+5	0.89930558	0	0	0	intravenous	0	No	2206389	morphine
+9	0.54791665	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+9	0.72500002	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+9	4.2916665	4	3	4	intravenous	1	Yes	2206389	morphine
+9	0.57708335	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+9	0.71666664	0	0	0	intravenous	0	No	2201670	fentaNYL
+9	0.46527779	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+9	0.3263889	0	0	0	intravenous	0	No	2201670	fentaNYL
+9	3.9652777	3	3	3	intravenous	1	Yes	2206389	morphine
+9	0.72847223	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+9	0.54556715	0	0	0	intravenous	0	No	2201670	fentaNYL
+9	0.74722224	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+10	7.7416668	7	-2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	1.7423611	1	-2	-1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	8.7743053	8	-2	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	7.240972	7	-2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	6.5916667	6	2	4	intravenous	1	Yes	2202326	HYDROmorphone
+10	1.4013889	1	-2	-1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	2.4194446	2	0	0	intravenous	0	No	2202326	HYDROmorphone
+10	9.2486115	9	-2	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	5.1374998	5	2	3	by mouth	1	Yes	2202326	HYDROmorphone
+10	5.6326389	5	-2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	6.8430557	6	-2	4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	6.9895835	6	2	4	intravenous	1	Yes	2202326	HYDROmorphone
+10	5.3125	5	2	3	by mouth	1	Yes	2202326	HYDROmorphone
+10	7.8986111	7	-2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	1.5694444	1	-2	-1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	4.4743056	4	2	2	by mouth	1	Yes	2202326	HYDROmorphone
+10	3.2340279	3	0	1	intravenous	0	No	2202326	HYDROmorphone
+10	5.5	5	-2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	7.3645835	7	2	5	intravenous	1	Yes	2202326	HYDROmorphone
+10	4.6479168	4	2	2	by mouth	1	Yes	2202326	HYDROmorphone
+10	3.9451389	3	0	1	intravenous	0	No	2202326	HYDROmorphone
+10	0.65625	0		-2	intravenous	0	No	2201670	fentaNYL
+10	3.2125001	3	-2	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	6.4569445	6	-2	4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	1.2548611	1	-2	-1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	8.5069447	8	-2	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	7.0756946	7	-2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	2.8958333	2	-2	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	6.2312498	6	-2	4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	8.9624996	8	-2	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	0.77430558	0	-2	-2	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	6.6458335	6	-2	4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	0.92500001	0	-2	-2	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	5.9298611	5	-2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	1.6729167	1		-1	intravenous	0	No	2201670	fentaNYL
+10	1.1013889	1	-2	-1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	2.2520833	2	-2	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	1.9375	1	-2	-1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	8.3423615	8	-2	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+10	7.4375	7	-2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+12	0.38680556	0	0	0	intravenous	0	No	2201670	fentaNYL
+12	0.50763887	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+12	0.37847221	0	0	0	intravenous	0	No	2201670	fentaNYL
+12	0.39305556	0	0	0	intravenous	0	No	2201670	fentaNYL
+12	0.36944443	0	0	0	intravenous	0	No	2201670	fentaNYL
+12	0.35833332	0	0	0	intravenous	0	No	2201670	fentaNYL
+12	0.43402779	0	0	0	intravenous	0	No	2201670	fentaNYL
+12	0.40000001	0	0	0	intravenous	0	No	2201670	fentaNYL
+12	0.44097221	0	0	0	intravenous	0	No	2201670	fentaNYL
+14	0.56597221	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+14	0.44097221	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+14	0.91874999	0	0	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+16	1.2743056	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+16	1.1423612	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+16	1.6548611	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+16	2.4652777	2	0	2	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+16	1.5097222	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+16	0.96875	0	0	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+16	1.0590278	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+16	2.0534723	2	0	2	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+16	0.83333331	0	0	0	intravenous	1	Yes	2206389	morphine
+16	1.3548611	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+16	1.1701388	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+16	0.8576389	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+16	0.79166669	0	0	0	intravenous	1	Yes	2206389	morphine
+18	0.50902778	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+18	0.69166666	0	0	0	intravenous	1	Yes	2206389	morphine
+18	0.93541664	0	0	0	intravenous	1	Yes	2206389	morphine
+18	0.89583331	0	0	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+18	1.1701388	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+18	0.50277776	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+18	0.3298611	0	0	0	intravenous	1	Yes	2206389	morphine
+18	0.51319444	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+18	0.5152778	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+18	0.47777778	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+18	1.4951389	1	1	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+18	0.64305556	0	0	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+18	0.47916666	0	0	0	intravenous	0	No	2211823	remifentanil
+18	0.46666667	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+18	0.20416667	0	0	0	intravenous	1	Yes	2206389	morphine
+18	1.2263889	1	0	1	intravenous	1	Yes	2206389	morphine
+18	0.5625	0	0	0	intravenous	1	Yes	2206389	morphine
+18	0.12152778	0	0	0	intravenous	1	Yes	2206389	morphine
+25	3.2736111	3	2	3	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+25	3.8916667	3	3	3	by mouth	0	No	2212348	traMADol
+25	6.2750001	6	3	6	by mouth	0	No	2212348	traMADol
+25	7.2784724	7	3	7	by mouth	0	No	2212348	traMADol
+25	6.9229169	6	3	6	by mouth	0	No	2212348	traMADol
+25	6.5277777	6	3	6	by mouth	0	No	2212348	traMADol
+25	0.31666666	0	0	0	intravenous	0	No	2201670	fentaNYL
+25	7.1715279	7	3	7	by mouth	1	Yes	2208538	oxyCODONE
+25	0.34652779	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+25	0.41458333	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+25	5.6020832	5	3	5	by mouth	0	No	2212348	traMADol
+25	5.9243054	5	3	5	by mouth	0	No	2212348	traMADol
+25	1.30625	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+25	4.2756944	4	3	4	by mouth	0	No	2212348	traMADol
+29	4.2083335	4	2	4	intravenous	1	Yes	2202326	HYDROmorphone
+29	3.0625	3	2	3	intravenous	1	Yes	2202326	HYDROmorphone
+29	2.8993056	2	2	2	intravenous	1	Yes	2202326	HYDROmorphone
+29	6.4166665	6	2	6	intravenous	1	Yes	2202326	HYDROmorphone
+29	5.6541667	5	2	5	intravenous	1	Yes	2202326	HYDROmorphone
+29	3.2472222	3	2	3	intravenous	1	Yes	2202326	HYDROmorphone
+29	3.6715279	3	2	3	intravenous	1	Yes	2202326	HYDROmorphone
+29	2.7270834	2	2	2	intravenous	1	Yes	2202326	HYDROmorphone
+33	0.55069447	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+33	0.5465278	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+33	0.53888887	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+33	0.54236114	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+33	0.56805557	0	0	0	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+34	0.96527779	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+34	6.0423613	6	4	6	by mouth	1	Yes	2206389	morphine
+34	1.2083334	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+34	2.375	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	0.91666669	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+34	0.55972224	0	0	0	intravenous	0	No	2201670	fentaNYL
+34	7.3958335	7	6	7	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+34	1	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+34	2.25	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	0.79166669	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+34	6.9194446	6	6	6	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+34	0.875	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+34	5.5548611	5	4	5	PO or G-tube	1	Yes	2206389	morphine
+34	2.5	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	4.2576389	4	0	4	Epidural	0	No	2202326	HYDROmorphone
+34	0.58402777	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+34	6.7076387	6	6	6	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+34	7.2041669	7	6	7	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+34	1.25	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+34	2.2916667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	2.4166667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	1.3784722	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+34	0.78194445	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+34	3.0597222	3	0	3	Epidural	0	No	2202326	HYDROmorphone
+34	2.5416667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	4.4729166	4	4	4	PEG-tube	0	No	2206389	morphine
+34	0.83333331	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+34	2.5833333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	2.3333333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	2.4583333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	0.59722221	0	0	0	intravenous	0	No	2211823	remifentanil
+34	2.625	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+34	2.6666667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+38	7.7430553	7	6	6	intravenous	1	Yes	2202326	HYDROmorphone
+38	7.9625001	7	6	6	intravenous	1	Yes	2202326	HYDROmorphone
+38	8.333333	8	6	7	intravenous	1	Yes	2202326	HYDROmorphone
+38	10.277083	10	6	9	intravenous	1	Yes	2202326	HYDROmorphone
+38	9.8555555	9	6	8	intravenous	1	Yes	2202326	HYDROmorphone
+38	0.79374999	0	-1	-1	intravenous	0	No	2202326	HYDROmorphone
+38	2.7750001	2	1	1	intravenous	0	No	2201670	fentaNYL
+38	11.375	11	6	10	intravenous	1	Yes	2202326	HYDROmorphone
+38	9.6826391	9	6	8	intravenous	1	Yes	2202326	HYDROmorphone
+38	9.1048613	9	6	8	intravenous	1	Yes	2202326	HYDROmorphone
+38	7.4131947	7	6	6	intravenous	0	No	2202326	HYDROmorphone
+38	2.7805555	2	1	1	intravenous	0	No	2201670	fentaNYL
+38	9.375	9	6	8	intravenous	1	Yes	2202326	HYDROmorphone
+38	2.7583334	2	1	1	intravenous	0	No	2201670	fentaNYL
+38	10.894444	10	6	9	intravenous	1	Yes	2202326	HYDROmorphone
+38	2.8729167	2	-1	1	intravenous	0	No	2202326	HYDROmorphone
+38	0.83611113	0	-1	-1	intravenous	0	No	2202326	HYDROmorphone
+38	11.520833	11	6	10	intravenous	1	Yes	2202326	HYDROmorphone
+38	9.4513893	9	6	8	intravenous	1	Yes	2202326	HYDROmorphone
+38	11.296528	11	6	10	intravenous	1	Yes	2202326	HYDROmorphone
+38	11.625	11	6	10	intravenous	1	Yes	2202326	HYDROmorphone
+38	10.664583	10	6	9	intravenous	1	Yes	2202326	HYDROmorphone
+38	10.088889	10	6	9	intravenous	1	Yes	2202326	HYDROmorphone
+38	8.9430552	8	6	7	intravenous	1	Yes	2202326	HYDROmorphone
+38	6.8812499	6	5	5	intravenous	1	Yes	2206389	morphine
+39	0.6875	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+39	0.66666669	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+39	0.6736111	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+39	0.6875	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+39	4.9104166	4	3	4	by mouth	1	Yes	2208538	oxyCODONE
+39	3.9166667	3	3	3	by mouth	1	Yes	2208538	oxyCODONE
+39	0.64930558	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+39	0.68055558	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+41	0.70833331	0	0	0	intravenous	0	No	2206389	morphine
+43	2.0729167	2	0	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+43	1.5493056	1	0	0	intravenous	1	Yes	2201670	fentaNYL
+43	2.2930555	2	0	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+43	2.457639	2	0	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+43	1.5430555	1	0	0	intravenous	1	Yes	2201670	fentaNYL
+43	1.6194445	1	0	0	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+43	1.8583333	1	0	0	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+45	0.35416666	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	2.6631944	2	1	2	by mouth	1	Yes	2208538	oxyCODONE
+45	0.36388889	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	3.2451389	3	1	3	by mouth	1	Yes	2208538	oxyCODONE
+45	0.47916666	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	4.2375002	4	3	4	by mouth	1	Yes	2208538	oxyCODONE
+45	2.5520833	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+45	3.4444444	3	3	3	by mouth	1	Yes	2208538	oxyCODONE
+45	3.10625	3	1	3	intravenous	1	Yes	2202326	HYDROmorphone
+45	1.8930556	1	1	1	by mouth	1	Yes	2208538	oxyCODONE
+45	0.47222221	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	0.31944445	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	2.9236112	2	1	2	by mouth	1	Yes	2208538	oxyCODONE
+45	4.4069443	4	3	4	by mouth	1	Yes	2208538	oxyCODONE
+45	1.9895834	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+45	0.51111114	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+45	3.9284723	3	3	3	by mouth	1	Yes	2208538	oxyCODONE
+45	0.45694444	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	0.50763887	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+45	2.28125	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+45	2.3715277	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+45	0.46805555	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	3.4166667	3	1	3	intravenous	1	Yes	2202326	HYDROmorphone
+45	2.073611	2	1	2	by mouth	1	Yes	2208538	oxyCODONE
+45	0.51666665	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+45	2.4145834	2	1	2	by mouth	1	Yes	2208538	oxyCODONE
+45	1.6527778	1	1	1	by mouth	1	Yes	2208538	oxyCODONE
+45	1.8979167	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+45	1.4763889	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+45	4.0395832	4	1	4	intravenous	1	Yes	2202326	HYDROmorphone
+45	1.5590278	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+45	2.8243055	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+45	3.5701389	3	1	3	intravenous	1	Yes	2202326	HYDROmorphone
+45	3.66875	3	3	3	by mouth	1	Yes	2208538	oxyCODONE
+45	0.48680556	0	0	0	intravenous	0	No	2201670	fentaNYL
+45	0.53125	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+45	2.2395833	2	1	2	by mouth	1	Yes	2208538	oxyCODONE
+45	2.1354167	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+48	0.5763889	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+48	0.56944442	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+48	0.61805558	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+48	0.5625	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+48	0.58333331	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+48	0.60416669	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+48	0.86458331	0	0	0	intravenous	1	Yes	2206389	morphine
+48	0.6875	0	0	0	intravenous	1	Yes	2206389	morphine
+49	0.49375001	0	0	0	by mouth	0	No	2193611	acetaminophen-HYDROcodone
+51	5.1875	5	1	5	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	0.3576389	0	0	0	intravenous	0	No	2201670	fentaNYL
+51	5.4166665	5	1	5	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	5.0145831	5	1	5	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	4.6624999	4	1	4	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	2.8368056	2	1	2	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	0.65902776	0	0	0	intravenous	0	No	2206389	morphine
+51	3.3784723	3	1	3	intravenous	1	Yes	2202326	HYDROmorphone
+51	2.1284723	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+51	2.6548612	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+51	0.55624998	0	0	0	intravenous	0	No	2201670	fentaNYL
+51	6.3187499	6	6	6	by mouth	1	Yes	2212348	traMADol
+51	1.5263889	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+51	4.2444444	4	1	4	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	3.7208333	3	1	3	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	1.775	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+51	0.58958334	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+51	2.3784723	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+51	5.6416669	5	1	5	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	4.8618054	4	1	4	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	0.63263887	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+51	0.64166665	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+51	4.4854169	4	1	4	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	0.62083334	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+51	1.7305555	1	1	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	6.1506944	6	1	6	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	3.89375	3	1	3	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	1.2777778	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+51	2.5486112	2	1	2	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	6.5625	6	6	6	by mouth	1	Yes	2212348	traMADol
+51	2.9375	2	1	2	intravenous	1	Yes	2202326	HYDROmorphone
+51	0.52777779	0	0	0	intravenous	0	No	2201670	fentaNYL
+51	0.56041664	0	0	0	intravenous	0	No	2201670	fentaNYL
+51	0.62569445	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+51	5.9368057	5	1	5	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+51	1.3805555	1	1	1	intravenous	1	Yes	2202326	HYDROmorphone
+52	0.33194444	0	-0.23958333	-0.23958333	intravenous	0	No	2201670	fentaNYL
+52	0.3125	0	-0.23958333	-0.23958333	intravenous	0	No	2201670	fentaNYL
+52	0.31666666	0	-0.23958333	-0.23958333	intravenous	0	No	2201670	fentaNYL
+52	0.53125	0	-0.23958333	-0.23958333	by mouth	0	No	2193611	acetaminophen-HYDROcodone
+54	0.94375002	0	-1	-1	intravenous	1	Yes	2206389	morphine
+54	1.7430556	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+54	2.0125	2	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+54	1.75	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+54	1.4673611	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+54	2.5666666	2	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+54	2.4034722	2	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+54	1.3465278	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+54	1.0048611	1	0	0	intravenous	1	Yes	2206389	morphine
+54	1.9180555	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+54	1.0854167	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+54	2.363889	2	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	7.3541665	7	-4	0	intravenous	1	Yes	2206389	morphine
+55	7.7291665	7	0	0	intravenous	1	Yes	2201670	fentaNYL
+55	3.4534721	3	-4	-4	intravenous	1	Yes	2206389	morphine
+55	14.017361	14	4	7	intravenous	1	Yes	2202326	HYDROmorphone
+55	12.104167	12	4	5	intravenous	1	Yes	2202326	HYDROmorphone
+55	7.7777777	7	0	0	intravenous	0	No	2206389	morphine
+55	7.7395835	7	0	0	intravenous	1	Yes	2201670	fentaNYL
+55	5.7076387	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	2.8958333	2	-6	-5	intravenous	1	Yes	2206389	morphine
+55	14.707639	14	4	7	intravenous	1	Yes	2202326	HYDROmorphone
+55	8.0534725	8	1	1	intravenous	0	No	2202326	HYDROmorphone
+55	14.629861	14	6	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	4.2395835	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	15.625	15	7	8	by mouth	0	No	2202326	HYDROmorphone
+55	7.7569447	7	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+55	5.157639	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	16.136806	16	8	9	by mouth	1	Yes	2202326	HYDROmorphone
+55	3.3541667	3	-4	-4	intravenous	0	No	2206389	morphine
+55	14.270833	14	6	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	3.2402778	3	-6	-4	intravenous	1	Yes	2206389	morphine
+55	4.7152777	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	13.861111	13	4	6	intravenous	1	Yes	2202326	HYDROmorphone
+55	2.2166667	2	-6	-5	intravenous	1	Yes	2206389	morphine
+55	11.945139	11	4	4	intravenous	1	Yes	2202326	HYDROmorphone
+55	12.270139	12	4	5	intravenous	1	Yes	2202326	HYDROmorphone
+55	15.375	15	7	8	by mouth	0	No	2202326	HYDROmorphone
+55	14.875	14	7	7	by mouth	0	No	2202326	HYDROmorphone
+55	16.375	16	8	9	by mouth	0	No	2208538	oxyCODONE
+55	1.6208333	1	-6	-6	intravenous	1	Yes	2206389	morphine
+55	5.8680553	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	14.374306	14	4	7	intravenous	1	Yes	2202326	HYDROmorphone
+55	4.5979166	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	9.583333	9	1	2	intravenous	0	No	2202326	HYDROmorphone
+55	1.0520834	1	-6	-6	intravenous	1	Yes	2206389	morphine
+55	11.449306	11	4	4	intravenous	1	Yes	2202326	HYDROmorphone
+55	11.770833	11	4	4	intravenous	1	Yes	2202326	HYDROmorphone
+55	6.8611112	6	-4	-1	intravenous	1	Yes	2206389	morphine
+55	13.160417	13	4	6	intravenous	1	Yes	2202326	HYDROmorphone
+55	5.0055556	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	7.7638888	7	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+55	14.75	14	7	7	by mouth	0	No	2202326	HYDROmorphone
+55	4.501389	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	13.325694	13	4	6	intravenous	1	Yes	2202326	HYDROmorphone
+55	3.6458333	3	-4	-4	intravenous	1	Yes	2206389	morphine
+55	12.989583	12	4	5	intravenous	1	Yes	2202326	HYDROmorphone
+55	7.7430553	7	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+55	6.53125	6	-4	-1	intravenous	1	Yes	2206389	morphine
+55	12.439584	12	4	5	intravenous	1	Yes	2202326	HYDROmorphone
+55	4.897222	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	15	15	7	8	by mouth	0	No	2202326	HYDROmorphone
+55	14.184028	14	4	7	intravenous	1	Yes	2202326	HYDROmorphone
+55	3.7368054	3	-4	-4	intravenous	1	Yes	2206389	morphine
+55	6.9604168	6	-4	-1	intravenous	1	Yes	2206389	morphine
+55	4.0687499	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	15.125	15	7	8	by mouth	0	No	2202326	HYDROmorphone
+55	5.4354167	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	6.2777777	6	-4	-1	intravenous	1	Yes	2206389	morphine
+55	4.3680553	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	15.5	15	7	8	by mouth	0	No	2202326	HYDROmorphone
+55	5.5812502	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	3.5381944	3	-4	-4	intravenous	1	Yes	2206389	morphine
+55	7.75	7	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+55	13.724305	13	6	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	10.083333	10	1	3	intravenous	0	No	2202326	HYDROmorphone
+55	5.25	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	11.345834	11	1	4	intravenous	0	No	2202326	HYDROmorphone
+55	3.9618056	3	-4	-4	intravenous	1	Yes	2206389	morphine
+55	4.1569443	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	7.7361112	7	0	0	intravenous	1	Yes	2201670	fentaNYL
+55	14.075694	14	6	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	12.588889	12	1	5	intravenous	0	No	2202326	HYDROmorphone
+55	15.375	15	8	8	by mouth	0	No	2208538	oxyCODONE
+55	4.8131943	4	-4	-3	intravenous	1	Yes	2206389	morphine
+55	6.0902777	6	-4	-1	intravenous	1	Yes	2206389	morphine
+55	13.5625	13	6	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	13.395833	13	6	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	7.7326388	7	0	0	intravenous	1	Yes	2201670	fentaNYL
+55	11.604167	11	4	4	intravenous	1	Yes	2202326	HYDROmorphone
+55	2.75	2	-6	-5	intravenous	1	Yes	2206389	morphine
+55	14.438889	14	6	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	3.8458333	3	-4	-4	intravenous	1	Yes	2206389	morphine
+55	7.0625	7	-4	0	intravenous	1	Yes	2206389	morphine
+55	15.25	15	7	8	by mouth	0	No	2202326	HYDROmorphone
+55	7.1736112	7	-4	0	intravenous	1	Yes	2206389	morphine
+55	12.813194	12	4	5	intravenous	1	Yes	2202326	HYDROmorphone
+55	5.9659724	5	-4	-2	intravenous	1	Yes	2206389	morphine
+55	1.8701389	1	-6	-6	intravenous	1	Yes	2206389	morphine
+55	11.276389	11	4	4	intravenous	1	Yes	2202326	HYDROmorphone
+55	12.604167	12	4	5	intravenous	1	Yes	2202326	HYDROmorphone
+55	13.904166	13	6	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+55	15.875	15	8	8	by mouth	0	No	2208538	oxyCODONE
+55	2.0388889	2	-6	-5	intravenous	1	Yes	2206389	morphine
+55	6.6597223	6	-4	-1	intravenous	1	Yes	2206389	morphine
+55	6.7569447	6	-4	-1	intravenous	1	Yes	2206389	morphine
+55	3.0263889	3	-4	-4	intravenous	0	No	2206389	morphine
+55	7.2638888	7	-4	0	intravenous	1	Yes	2206389	morphine
+59	2.1958334	2	0	1	intravenous	1	Yes	2206389	morphine
+59	1.875	1	-1	0	by mouth	0	No	2205026	methadone
+59	2.375	2	-1	1	by mouth	0	No	2205026	methadone
+59	2.3923612	2	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+59	1.5451388	1	0	0	intravenous	1	Yes	2201670	fentaNYL
+59	0.89583331	0	-1	-1	by mouth	0	No	2205026	methadone
+59	1.625	1	0	0	intravenous	1	Yes	2206389	morphine
+59	1.375	1	-1	0	by mouth	0	No	2205026	methadone
+59	1.8340278	1	0	0	intravenous	1	Yes	2206389	morphine
+59	1.5569445	1	0	0	intravenous	1	Yes	2201670	fentaNYL
+60	1.4166666	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	0.46527779	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	1.25	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	0.79166669	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	1.0833334	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	2.4583333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	5.6756945	5	2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	3.2291667	3	2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	1.4583334	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	2.5	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	1.3333334	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	2.7083333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	2.5833333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	2.375	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	0.91666669	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	2.625	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	2.2916667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	1.0416666	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	0.75	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	0.32499999	0	0	0	intravenous	0	No	2201670	fentaNYL
+60	2.7916667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	1	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	4.376389	4	2	4	intravenous	1	Yes	2202326	HYDROmorphone
+60	1.375	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	0.4375	0	0	0	intravenous	0	No	2201670	fentaNYL
+60	4.8888888	4	2	4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	5.4791665	5	2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	2.6666667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	1.7208333	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	2.0833333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	3.3805556	3	2	3	Intravenous	1	Yes	2202326	HYDROmorphone
+60	1.1666666	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	5.8826389	5	2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	1.5	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	3.9069445	3	2	3	intravenous	1	Yes	2202326	HYDROmorphone
+60	0.83333331	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	0.58680558	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+60	0.53402776	0	0	0	intravenous	0	No	2201670	fentaNYL
+60	1.5833334	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	5.063889	5	2	5	intravenous	1	Yes	2202326	HYDROmorphone
+60	3.6201389	3	2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	4.2381945	4	2	4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	0.31388888	0	0	0	intravenous	0	No	2201670	fentaNYL
+60	3.8111112	3	2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	2.75	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	1.125	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	0.95833331	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	1.5416666	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	4.6277776	4	2	4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	2.4166667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	1.2916666	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	0.625	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+60	0.46875	0	0	0	intravenous	0	No	2201670	fentaNYL
+60	1.625	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	0.70833331	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	0.59375	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+60	1.2083334	1	0	1	Epidural	0	No	2202326	HYDROmorphone
+60	2.3333333	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	2.5416667	2	0	2	Epidural	0	No	2202326	HYDROmorphone
+60	5.1736112	5	2	5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+60	0.875	0	0	0	Epidural	0	No	2202326	HYDROmorphone
+60	0.49027777	0	0	0	intravenous	0	No	2201670	fentaNYL
+61	0.69375002	0	0	0	intravenous	1	Yes	2206389	morphine
+61	1.0576389	1	0	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+61	1.2569444	1	0	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+61	0.79444444	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+61	0.80555558	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+61	0.87777776	0	0	0	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+61	0.7986111	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+61	1.5715277	1	0	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+62	6.71875	6	6	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+62	4.0374999	4	3	4	by mouth	1	Yes	2212348	traMADol
+62	0.56805557	0	0	0	intravenous	0	No	2201670	fentaNYL
+62	6.4930553	6	6	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+62	0.625	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+62	0.66666669	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+62	0.41805556	0	0	0	intravenous	0	No	2201670	fentaNYL
+62	5.3229165	5	3	5	intravenous	0	No	2202326	HYDROmorphone
+62	3.5368056	3	3	3	intravenous	1	Yes	2201670	fentaNYL
+62	3.3847222	3	3	3	intravenous	0	No	2201670	fentaNYL
+62	1.7534722	1	0	1	intravenous	0	No	2202326	HYDROmorphone
+62	4.6180553	4	3	4	intravenous	0	No	2202326	HYDROmorphone
+62	0.48888889	0	0	0	intravenous	0	No	2201670	fentaNYL
+62	6.0416665	6	3	6	intravenous	0	No	2202326	HYDROmorphone
+62	6.9194446	6	6	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+62	3.3625	3	3	3	intravenous	0	No	2201670	fentaNYL
+62	3.7555556	3	3	3	intravenous	0	No	2202326	HYDROmorphone
+62	0.58333331	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+62	4.2020831	4	3	4	intravenous	0	No	2202326	HYDROmorphone
+62	3.7847223	3	3	3	by mouth	1	Yes	2212348	traMADol
+62	3.5305555	3	0	3	intravenous	0	No	2202326	HYDROmorphone
+62	7.2472224	7	6	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+63	0.47222221	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+63	0.48541668	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+63	1.5208334	1	1	1	by mouth	0	No	2193611	acetaminophen-HYDROcodone
+63	1.0861111	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+63	0.83611113	0	0	0	intravenous	1	Yes	2206389	morphine
+63	0.6076389	0	0	0	intravenous	1	Yes	2206389	morphine
+63	1.0027778	1	0	1	intravenous	1	Yes	2206389	morphine
+63	1.3736111	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+63	0.7013889	0	0	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+63	0.46180555	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+63	0.45416668	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+63	0.87708336	0	0	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+63	1.2569444	1	0	1	intravenous	1	Yes	2206389	morphine
+66	0.85416669	0	0	0	intravenous	1	Yes	2206389	morphine
+66	0.5	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+66	0.50694442	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+66	1.4666667	1	1	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+66	1.1395833	1	0	1	intravenous	1	Yes	2206389	morphine
+66	0.5486111	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+66	0.58333331	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+67	1.1666666	1	0	1	intravenous	0	No	2202326	HYDROmorphone
+67	0.71666664	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+67	0.50208336	0	0	0	intravenous	0	No	2201670	fentaNYL
+67	0.375	0	0	0	intravenous	1	Yes	2206389	morphine
+67	0.47708333	0	0	0	intravenous	0	No	2201670	fentaNYL
+67	0.57916665	0	0	0	intravenous	0	No	2201670	fentaNYL
+67	5.5104165	5	1	5	intravenous	0	No	2206389	morphine
+67	0.6388889	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+67	1.3680556	1	1	1	intravenous	0	No	2206389	morphine
+67	0.58333331	0	0	0	intravenous	0	No	2201670	fentaNYL
+67	7.5361109	7	5	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+67	3.8979166	3	1	3	intravenous	0	No	2206389	morphine
+67	6.4881945	6	5	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+67	2.7215278	2	1	2	intravenous	0	No	2206389	morphine
+67	0.58888888	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+67	6.7916665	6	5	6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+67	0.64583331	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+67	0.52152777	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+68	19.684723	19	11	13	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	10.833333	10	4	4	intravenous	1	Yes	2206389	morphine
+68	0.50763887	0	-6	-6	intravenous	1	Yes	2206389	morphine
+68	0.98958331	0	-6	-6	intravenous	1	Yes	2206389	morphine
+68	12.704861	12	4	6	intravenous	1	Yes	2206389	morphine
+68	14.545139	14	7	8	intravenous	1	Yes	2206389	morphine
+68	9.5319443	9	-6	3	intramuscularly	1	Yes	2206389	morphine
+68	9.6263885	9	-6	3	intramuscularly	1	Yes	2206389	morphine
+68	15.030556	15	7	9	intravenous	1	Yes	2206389	morphine
+68	7.1493053	7	-6	1	intramuscularly	1	Yes	2206389	morphine
+68	11.400695	11	4	5	intravenous	1	Yes	2206389	morphine
+68	15.145139	15	7	9	intravenous	1	Yes	2206389	morphine
+68	17.695833	17	11	11	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	13.942361	13	7	7	intravenous	1	Yes	2206389	morphine
+68	19.340973	19	11	13	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	10.024305	10	-6	4	intramuscularly	1	Yes	2206389	morphine
+68	7.9583335	7	-6	1	intramuscularly	1	Yes	2206389	morphine
+68	7.5902777	7	-6	1	intramuscularly	1	Yes	2206389	morphine
+68	22.840279	22	11	16	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	14.708333	14	7	8	intravenous	1	Yes	2206389	morphine
+68	2.9124999	2	-6	-4	intravenous	1	Yes	2206389	morphine
+68	16.895834	16	7	10	intravenous	1	Yes	2206389	morphine
+68	21.666666	21	11	15	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	15.2625	15	7	9	intravenous	1	Yes	2206389	morphine
+68	8.864583	8	-6	2	intramuscularly	1	Yes	2206389	morphine
+68	7.2430553	7	-6	1	intramuscularly	1	Yes	2206389	morphine
+68	9.4104166	9	-6	3	intramuscularly	1	Yes	2206389	morphine
+68	6.0194445	6	-6	0	intravenous	1	Yes	2206389	morphine
+68	2.7847223	2	-6	-4	intravenous	1	Yes	2206389	morphine
+68	5.1444445	5	-6	-1	intravenous	1	Yes	2206389	morphine
+68	15.094444	15	7	9	intravenous	1	Yes	2206389	morphine
+68	20.013195	20	11	14	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	8.1076393	8	-6	2	intramuscularly	1	Yes	2206389	morphine
+68	4.2576389	4	-6	-2	intravenous	1	Yes	2206389	morphine
+68	18.441668	18	11	12	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	10.320833	10	-6	4	intramuscularly	1	Yes	2206389	morphine
+68	1.375	1	-6	-5	intravenous	1	Yes	2206389	morphine
+68	2.7090278	2	-6	-4	intravenous	1	Yes	2206389	morphine
+68	4.022222	4	-6	-2	intravenous	1	Yes	2206389	morphine
+68	16.597918	16	7	10	intravenous	1	Yes	2206389	morphine
+68	20.728472	20	11	14	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	8.708333	8	-6	2	intramuscularly	1	Yes	2206389	morphine
+68	0.8888889	0	-6	-6	intravenous	1	Yes	2206389	morphine
+68	1.9375	1	-6	-5	intravenous	1	Yes	2206389	morphine
+68	2.34375	2	-4	-4	intravenous	0	No	2206389	morphine
+68	7.688889	7	-6	1	intramuscularly	1	Yes	2206389	morphine
+68	18.670834	18	11	12	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	7.9020834	7	-6	1	intramuscularly	1	Yes	2206389	morphine
+68	4.9722223	4	-6	-2	intravenous	1	Yes	2206389	morphine
+68	9.8652782	9	-6	3	intramuscularly	1	Yes	2206389	morphine
+68	5.529861	5	-6	-1	intravenous	1	Yes	2206389	morphine
+68	13.054861	13	4	7	intravenous	1	Yes	2206389	morphine
+68	19.601389	19	11	13	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	12.834028	12	4	6	intravenous	1	Yes	2206389	morphine
+68	10.395833	10	-6	4	intramuscularly	1	Yes	2206389	morphine
+68	9.0972223	9	-6	3	intramuscularly	1	Yes	2206389	morphine
+68	19.845139	19	11	13	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	12.506945	12	4	6	intravenous	1	Yes	2206389	morphine
+68	6.1868057	6	-6	0	intramuscularly	1	Yes	2206389	morphine
+68	10.960417	10	4	4	intravenous	1	Yes	2206389	morphine
+68	2.4270833	2	-6	-4	intravenous	1	Yes	2206389	morphine
+68	8.416667	8	-6	2	intramuscularly	1	Yes	2206389	morphine
+68	7.4340277	7	-6	1	intramuscularly	1	Yes	2206389	morphine
+68	18.918751	18	11	12	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	1.4722222	1	-6	-5	intravenous	1	Yes	2206389	morphine
+68	6.8618054	6	-6	0	intramuscularly	1	Yes	2206389	morphine
+68	11.699306	11	4	5	intravenous	1	Yes	2206389	morphine
+68	11.915972	11	4	5	intravenous	1	Yes	2206389	morphine
+68	12.086111	12	4	6	intravenous	1	Yes	2206389	morphine
+68	18.066668	18	11	12	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	2.2916667	2	-6	-4	intravenous	1	Yes	2206389	morphine
+68	15.947917	15	7	9	intravenous	1	Yes	2206389	morphine
+68	20.495138	20	11	14	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+68	6.9930553	6	0	0	intravenous	1	Yes	2206389	morphine
+68	3.5208333	3	-6	-3	intravenous	1	Yes	2206389	morphine
+68	10.09375	10	4	4	intravenous	0	No	2202326	HYDROmorphone
+68	0.58472222	0	-6	-6	intravenous	0	No	2206389	morphine
+68	0.53888887	0	-6	-6	intravenous	1	Yes	2206389	morphine
+68	11.520833	11	4	5	intravenous	1	Yes	2206389	morphine
+68	3.1847222	3	-6	-3	intravenous	1	Yes	2206389	morphine
+68	3.7069445	3	-6	-3	intravenous	1	Yes	2206389	morphine
+68	5.71875	5	-6	-1	intravenous	1	Yes	2206389	morphine
+68	14.384722	14	7	8	intravenous	1	Yes	2206389	morphine
+68	6.4951391	6	-6	0	intramuscularly	1	Yes	2206389	morphine
+68	1.8340278	1	-6	-5	intravenous	1	Yes	2206389	morphine
+68	3.325	3	-6	-3	intravenous	1	Yes	2206389	morphine
+68	1.1611111	1	-6	-5	intravenous	1	Yes	2206389	morphine
+68	13.705556	13	4	7	intravenous	1	Yes	2206389	morphine
+68	1.2736111	1	-6	-5	intravenous	1	Yes	2206389	morphine
+68	9.9375	9	-6	3	intramuscularly	1	Yes	2206389	morphine
+68	17.387501	17	7	11	intravenous	1	Yes	2206389	morphine
+68	1.0458333	1	-5	-5	intravenous	0	No	2206389	morphine
+69	0.86805558	0	0	0	intravenous	1	Yes	2206389	morphine
+69	2.6041667	2	1	2	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+69	1.9118055	1	1	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+69	0.49305555	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+69	0.4548611	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+69	0.46180555	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+69	0.36250001	0	0	0	intravenous	0	No	2201670	fentaNYL
+69	0.74722224	0	0	0	intravenous	1	Yes	2206389	morphine
+69	0.43055555	0	0	0	intravenous	0	No	2201670	fentaNYL
+69	0.97916669	0	0	0	intravenous	1	Yes	2206389	morphine
+69	2.3520834	2	1	2	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+69	1.3715278	1	0	1	intravenous	1	Yes	2206389	morphine
+69	0.32291666	0	0	0	intravenous	0	No	2201670	fentaNYL
+69	1.2715278	1	0	1	intravenous	1	Yes	2206389	morphine
+69	0.61458331	0	0	0	intravenous	1	Yes	2206389	morphine
+69	1.7083334	1	1	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+69	1.4680556	1	1	1	by mouth	1	Yes	2193611	acetaminophen-HYDROcodone
+70	0.72430557	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+70	0.52222222	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+74	0.64930558	0	0	0	by mouth	1	Yes	2208538	oxyCODONE
+74	0.64999998	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+78	1.3611112	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+78	1.0381944	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+78	0.84027779	0	0	0	intravenous	1	Yes	2206389	morphine
+78	1.5972222	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	7.6493053	7	0	0	intravenous	0	No	2202326	HYDROmorphone
+80	1.95625	1	-7	-6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	8.5222225	8	-7	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	7.696528	7	0	0	intravenous	0	No	2201670	fentaNYL
+80	7.727778	7	0	0	intravenous	0	No	2201670	fentaNYL
+80	7.7423611	7	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+80	7.727778	7	0	0	intravenous	0	No	2202326	HYDROmorphone
+80	5.7208333	5	-7	-2	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	4.7534723	4	-7	-3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	2.4479167	2	-7	-5	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	0.45416668	0	-7	-7	intravenous	0	No	2201670	fentaNYL
+80	7.7555556	7	0	0	intravenous	1	Yes	2201670	fentaNYL
+80	7.6604166	7	0	0	intravenous	0	No	2201670	fentaNYL
+80	7.6958332	7	0	0	intravenous	0	No	2202326	HYDROmorphone
+80	3.5847223	3	-7	-4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	7.7493057	7	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+80	7.626389	7	0	0	intravenous	0	No	2201670	fentaNYL
+80	8.1944447	8	-7	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	6.7083335	6	-7	-1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	5.7430553	5	-2	-2	intravenous	0	No	2202326	HYDROmorphone
+80	0.72500002	0	-7	-7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	7.759028	7	0	0	intravenous	1	Yes	2201670	fentaNYL
+80	8	8	-7	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	7.6034722	7	0	0	intravenous	0	No	2201670	fentaNYL
+80	8.3868055	8	-7	1	intravenous	1	Yes	2206389	morphine
+80	0.47361112	0	-7	-7	intravenous	0	No	2202326	HYDROmorphone
+80	0.48819444	0	-7	-7	intravenous	0	No	2202326	HYDROmorphone
+80	3.4124999	3	-4	-4	intravenous	0	No	2202326	HYDROmorphone
+80	3.9013889	3	-7	-4	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	7.8333335	7	-7	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+80	1.3354167	1	-7	-6	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+82	1.1277778	1	0	1	Intravenous	1	Yes	2202326	HYDROmorphone
+82	1.8465278	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+82	1.3881944	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+82	0.57916665	0	0	0	intravenous	0	No	2201670	fentaNYL
+82	0.58958334	0	0	0	intravenous	0	No	2201670	fentaNYL
+82	2.7104166	2	1	2	by mouth	0	No	2212348	traMADol
+82	2.2520833	2	1	2	by mouth	0	No	2212348	traMADol
+82	0.88333333	0	0	0	Intravenous	1	Yes	2202326	HYDROmorphone
+82	0.68055558	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+82	3.2430556	3	1	3	by mouth	0	No	2212348	traMADol
+82	2.4055555	2	0	2	intravenous	1	Yes	2202326	HYDROmorphone
+82	0.48750001	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+82	0.35069445	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+82	1.54375	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+82	0.55694443	0	0	0	intravenous	0	No	2201670	fentaNYL
+82	3.0715277	3	0	3	intravenous	1	Yes	2202326	HYDROmorphone
+82	1.2770833	1	0	1	Intravenous	1	Yes	2202326	HYDROmorphone
+82	0.39513889	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+82	2.9743056	2	1	2	by mouth	0	No	2212348	traMADol
+82	0.6875	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+82	1.5006944	1	1	1	by mouth	0	No	2212348	traMADol
+82	3.7340279	3	1	3	by mouth	0	No	2212348	traMADol
+82	3.51875	3	1	3	by mouth	0	No	2212348	traMADol
+82	0.44930556	0	0	0	intravenous	0	No	2202326	HYDROmorphone
+82	1.6715277	1	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+82	0.34652779	0	0	0	intravenous	0	No	2201670	fentaNYL
+82	1.96875	1	1	1	by mouth	0	No	2212348	traMADol
+82	4.0354166	4	1	4	by mouth	0	No	2212348	traMADol
+82	1.7465278	1	1	1	by mouth	0	No	2212348	traMADol
+82	0.3201389	0	0	0	intravenous	0	No	2201670	fentaNYL
+82	4.2388887	4	1	4	by mouth	0	No	2212348	traMADol
+84	6.8583331	6	0	5	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	5.7104168	5	0	4	intravenous	1	Yes	2202326	HYDROmorphone
+84	3.5333333	3	0	2	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	7.8708334	7	0	6	intravenous	1	Yes	2202326	HYDROmorphone
+84	8.104167	8	0	7	intravenous	1	Yes	2202326	HYDROmorphone
+84	3.7854166	3	0	2	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	6.4340277	6	0	5	intravenous	1	Yes	2202326	HYDROmorphone
+84	2.4236112	2	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+84	4.8076391	4	0	3	intravenous	1	Yes	2202326	HYDROmorphone
+84	1.9979167	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+84	3.0479167	3	0	2	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	2.75	2	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+84	7.5520835	7	0	6	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	8.4118052	8	0	7	intravenous	1	Yes	2202326	HYDROmorphone
+84	1.8125	1	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+84	6.5208335	6	0	5	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	7.5979166	7	0	6	intravenous	1	Yes	2202326	HYDROmorphone
+84	4.3777776	4	0	3	intravenous	1	Yes	2202326	HYDROmorphone
+84	5.9027777	5	0	4	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	7.0625	7	0	6	PO or NG	1	Yes	2193955	acetaminophen-oxycodone
+84	5.3923612	5	0	4	intravenous	1	Yes	2202326	HYDROmorphone
+84	2.1854167	2	0	1	intravenous	1	Yes	2202326	HYDROmorphone
+84	8.8006945	8	0	7	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+84	1.7576389	1	0	0	intravenous	1	Yes	2201670	fentaNYL
+84	1.75	1	0	0	intravenous	1	Yes	2201670	fentaNYL
+91	2.875	2	2	2	by mouth	0	No	2193955	acetaminophen-oxycodone
+91	0.72638887	0	0	0	Epidural	0	No	2207114	meperidine
+91	1.7083334	1	0	1	Epidural	0	No	2207114	meperidine
+91	2.9895833	2	2	2	intravenous	1	Yes	2206389	morphine
+91	2.7013888	2	2	2	by mouth	0	No	2193955	acetaminophen-oxycodone
+91	3.2104166	3	2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+91	3.0444446	3	2	3	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+91	0.72569442	0	0	0	Epidural	0	No	2207114	meperidine
+92	0.44444445	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+92	0.42500001	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+92	0.61736113	0	0	0	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+92	0.33125001	0	0	0	intravenous	0	No	2201670	fentaNYL
+92	1.2486111	1	0	1	intravenous	1	Yes	2206389	morphine
+92	0.40972221	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+92	1.4097222	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+92	0.3125	0	0	0	intravenous	0	No	2201670	fentaNYL
+92	0.67916667	0	0	0	intravenous	1	Yes	2206389	morphine
+92	0.50486112	0	0	0	intravenous	1	Yes	2206389	morphine
+92	0.95833331	0	0	0	intravenous	1	Yes	2206389	morphine
+92	1.0333333	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+95	0.69583333	0	0	0	intravenous	1	Yes	2202326	HYDROmorphone
+95	0.625	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+95	0.6388889	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+95	0.63194442	0	0	0	intravenous	1	Yes	2201670	fentaNYL
+95	1.3520833	1	0	1	by mouth	1	Yes	2193955	acetaminophen-oxycodone
+99	0.7013889	0	-0.45277777	-0.45277777	by mouth	0	No	2193611	acetaminophen-HYDROcodone
