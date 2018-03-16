@@ -1,0 +1,24 @@
+dataset|data_variable|risk_factor|low|high|min|max
+lab|Albumin|albumin|3.50|4.80|0.00|20.00
+lab|AlkPhos|alkphos|32.00|91.00|0.00|1000.00
+lab|AST/ALT|ast/alt|15.00|41.00|0.00|10000.00
+lab|BUN|bun|8.00|25.00|0.00|500.00
+lab|Calcium|calcium|8.90|10.30|0.00|20.00
+lab|Bicarb|bicarb|22.00|32.00|0.00|50.00
+lab|Cr|creatinine|0.40|1.00|0.00|100.00
+lab|HCT|hct|33.30|41.40|0.00|100.00
+lab|INR|inr|0.50|1.40|0.00|25.00
+lab|K+|potassium|3.60|5.10|0.00|15.00
+lab|Sodium|sodium|136.00|144.00|0.00|200.00
+lab|PLT|pt|150.00|400.00|0.00|1000.00
+lab|PTT|ptt|25.00|39.00|0.00|1000.00
+lab|TBili|bilirubin|0.30|1.20|0.00|90.00
+lab|WBC|wbc|3.60|11.10|0.00|150.00
+vitals|BMI|bmi|30.00|40.00|0.00|90.00
+vitals|HR|hr|40.00|130.00|1.00|250.00
+vitals|O2Sat|o2 sat|90.00|100.00|0.00|100.00
+vitals|RR|resp|10.00|30.00|0.00|60.00
+vitals|DBP|diastolic bp|40.00|120.00|0.00|200.00
+vitals|SBP|systolic bp|80.00|160.00|0.00|300.00
+vitals|TEMP|temp|36.00|37.90|32.00|45.00
+vitals|PainScore|pain score|3.00|7.00|0.00|10.00
