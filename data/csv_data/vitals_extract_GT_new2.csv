@@ -1,0 +1,1785 @@
+deid,admit_day,risk_factor,result
+5,0,diastolic bp,74
+5,0,functional status,7
+5,2,o2 sat,93
+5,0,bmi,41.1
+5,1,hr,105
+5,2,systolic bp,155
+5,1,diastolic bp,88
+5,0,pain score,4
+5,-1,o2 sat,99
+5,1,o2 sat,99
+5,1,resp,20
+5,2,diastolic bp,86
+5,0,resp,18
+5,2,hr,104
+5,-1,bmi,41.1
+5,2,functional status,5
+5,0,hr,90
+5,-1,systolic bp,158
+5,0,systolic bp,152
+5,1,pain score,1
+5,1,systolic bp,191
+5,-1,hr,57
+5,2,pain score,2
+5,-1,resp,18
+5,2,resp,19
+5,-1,diastolic bp,90
+5,0,o2 sat,97
+8,0,o2 sat,100
+8,0,functional status,7
+8,0,systolic bp,150
+8,0,hr,69
+8,0,temp,36
+8,0,resp,18
+8,0,diastolic bp,98
+9,1,diastolic bp,78
+9,5,o2 sat,98
+9,5,systolic bp,125
+9,6,o2 sat,98
+9,6,systolic bp,133
+9,4,resp,20
+9,4,o2 sat,98
+9,-7,systolic bp,128
+9,0,pain score,6
+9,0,resp,20
+9,6,diastolic bp,81
+9,5,pain score,4
+9,-7,diastolic bp,72
+9,0,diastolic bp,75
+9,-7,hr,96
+9,4,pain score,0
+9,0,systolic bp,123
+9,6,hr,72
+9,-7,pain score,0
+9,1,pain score,5
+9,2,pain score,5
+9,1,o2 sat,94
+9,2,systolic bp,138
+9,6,resp,20
+9,5,hr,79
+9,1,systolic bp,154
+9,3,diastolic bp,88
+9,1,hr,85
+9,0,hr,81
+9,5,resp,20
+9,3,resp,20
+9,-7,bmi,32.5
+9,2,resp,20
+9,0,o2 sat,98
+9,2,hr,107
+9,2,o2 sat,93
+9,-7,resp,16
+9,5,diastolic bp,78
+9,3,functional status,7
+9,4,systolic bp,129
+9,4,diastolic bp,78
+9,3,pain score,6
+9,3,hr,98
+9,6,pain score,0
+9,0,bmi,0
+9,2,diastolic bp,77
+9,1,resp,20
+9,3,o2 sat,97
+9,3,systolic bp,140
+9,4,hr,89
+9,-7,o2 sat,96
+9,0,functional status,7
+10,7,pain score,0
+10,0,systolic bp,136
+10,1,pain score,5
+10,1,resp,16
+10,8,resp,18
+10,9,hr,79
+10,6,temp,36.7
+10,8,temp,36.7
+10,5,temp,36.3
+10,8,systolic bp,95
+10,0,temp,36.6
+10,5,o2 sat,98
+10,3,hr,92
+10,8,hr,79
+10,7,temp,36
+10,5,systolic bp,132
+10,3,temp,38.6
+10,1,hr,85
+10,4,pain score,6
+10,0,pain score,10
+10,5,resp,18
+10,9,o2 sat,96
+10,4,systolic bp,113
+10,6,hr,73
+10,0,diastolic bp,75
+10,0,o2 sat,97
+10,1,o2 sat,95
+10,3,functional status,2
+10,9,systolic bp,116
+10,1,temp,37.2
+10,6,resp,20
+10,5,diastolic bp,71
+10,9,pain score,4
+10,6,diastolic bp,57
+10,6,o2 sat,96
+10,7,diastolic bp,69
+10,3,systolic bp,99
+10,7,functional status,4
+10,2,pain score,6
+10,3,diastolic bp,56
+10,4,diastolic bp,62
+10,0,resp,18
+10,4,o2 sat,92
+10,0,hr,81
+10,3,pain score,5
+10,3,o2 sat,94
+10,1,systolic bp,128
+10,4,hr,88
+10,9,diastolic bp,67
+10,7,systolic bp,135
+10,2,o2 sat,95
+10,2,temp,37.2
+10,7,hr,84
+10,0,bmi,27.5
+10,2,hr,78
+10,1,diastolic bp,59
+10,4,resp,18
+10,8,o2 sat,91
+10,7,resp,19
+10,2,resp,16
+10,6,systolic bp,105
+10,5,hr,82
+10,3,resp,18
+10,5,pain score,9
+10,7,o2 sat,92
+10,8,pain score,6
+10,6,pain score,8
+10,8,diastolic bp,52
+10,2,systolic bp,130
+10,4,temp,37.6
+10,9,resp,18
+10,9,temp,37.2
+10,2,diastolic bp,63
+12,0,pain score,7
+12,0,functional status,2
+12,0,hr,99
+12,1,hr,117
+12,0,alcohol amount,1
+12,0,systolic bp,153
+12,1,resp,18
+12,0,o2 sat,100
+12,1,o2 sat,100
+12,0,diastolic bp,85
+12,1,diastolic bp,58
+12,1,systolic bp,121
+12,0,resp,20
+12,0,bmi,59
+12,1,pain score,5
+14,-6,bmi,24.4
+14,1,diastolic bp,49
+14,2,o2 sat,93
+14,0,pain score,0
+14,1,systolic bp,140
+14,1,o2 sat,96
+14,0,diastolic bp,62
+14,0,resp,15
+14,2,diastolic bp,42
+14,2,functional status,7
+14,2,hr,66
+14,1,pain score,0
+14,-6,pain score,0
+14,1,resp,18
+14,2,systolic bp,145
+14,0,hr,64
+14,0,systolic bp,127
+14,1,hr,64
+14,0,o2 sat,100
+14,0,functional status,7
+14,2,pain score,0
+14,2,resp,16
+16,-5,o2 sat,100
+16,-5,resp,20
+16,1,systolic bp,141
+16,2,pain score,8
+16,-5,bmi,42.1
+16,2,diastolic bp,51
+16,-5,systolic bp,144
+16,1,pain score,6
+16,2,resp,20
+16,0,diastolic bp,70
+16,0,hr,70
+16,2,temp,38.1
+16,0,resp,19
+16,2,systolic bp,104
+16,1,diastolic bp,94
+16,-5,diastolic bp,96
+16,1,hr,100
+16,2,o2 sat,92
+16,0,systolic bp,125
+16,1,resp,20
+16,-5,hr,77
+16,0,pain score,10
+16,2,hr,109
+16,1,temp,36.3
+16,0,o2 sat,100
+16,0,bmi,42
+16,0,functional status,7
+16,1,o2 sat,100
+16,0,temp,36.8
+18,0,diastolic bp,60
+18,0,pain score,10
+18,-1,hr,97
+18,1,pain score,3
+18,1,o2 sat,97
+18,0,o2 sat,99
+18,1,hr,113
+18,-1,diastolic bp,66
+18,0,resp,18
+18,-1,o2 sat,97
+18,-1,resp,18
+18,0,alcohol use,No
+18,0,systolic bp,118
+18,-1,systolic bp,118
+18,0,functional status,7
+18,0,hr,100
+18,1,diastolic bp,65
+18,1,functional status,7
+18,1,resp,20
+18,1,systolic bp,119
+18,-1,bmi,25.9
+18,-1,pain score,9
+22,-1,bmi,26.5
+22,-1,o2 sat,95
+22,0,hr,76
+22,-1,resp,16
+22,0,resp,18
+22,-1,systolic bp,117
+22,0,alcohol amount,5
+22,-1,diastolic bp,72
+22,0,pain score,0
+22,-1,hr,75
+22,0,functional status,7
+22,0,diastolic bp,69
+22,-1,alcohol amount,5
+22,0,o2 sat,94
+22,0,systolic bp,103
+22,-1,pain score,0
+25,6,diastolic bp,70
+25,0,bmi,23.3
+25,7,o2 sat,92
+25,3,o2 sat,94
+25,7,diastolic bp,71
+25,2,pain score,2
+25,3,hr,81
+25,0,systolic bp,158
+25,4,resp,18
+25,0,pain score,0
+25,-14,systolic bp,159
+25,-14,hr,59
+25,1,resp,16
+25,-14,o2 sat,97
+25,0,o2 sat,97
+25,7,pain score,0
+25,6,pain score,4
+25,7,resp,18
+25,3,systolic bp,171
+25,5,systolic bp,176
+25,2,systolic bp,140
+25,7,hr,80
+25,3,resp,18
+25,5,o2 sat,94
+25,-14,bmi,23.3
+25,6,functional status,5
+25,2,o2 sat,93
+25,1,o2 sat,96
+25,3,pain score,5
+25,0,hr,66
+25,6,hr,85
+25,7,systolic bp,158
+25,0,diastolic bp,81
+25,0,resp,12
+25,2,diastolic bp,63
+25,1,diastolic bp,56
+25,0,alcohol amount,5 glasses/week
+25,6,systolic bp,162
+25,2,hr,68
+25,-14,alcohol amount,5 glasses/week
+25,3,diastolic bp,74
+25,-14,resp,16
+25,4,o2 sat,92
+25,4,systolic bp,172
+25,5,pain score,0
+25,5,diastolic bp,76
+25,2,resp,18
+25,6,o2 sat,95
+25,1,pain score,0
+25,1,hr,57
+25,-14,diastolic bp,59
+25,0,functional status,7
+25,1,systolic bp,120
+25,4,pain score,0
+25,5,resp,20
+25,6,resp,20
+25,2,functional status,2
+25,4,diastolic bp,75
+25,5,hr,87
+25,4,hr,83
+29,0,bmi,21.5
+29,-6,hr,49
+29,6,o2 sat,98
+29,0,resp,18
+29,5,diastolic bp,61
+29,1,resp,18
+29,2,systolic bp,106
+29,0,pain score,6
+29,1,diastolic bp,65
+29,1,o2 sat,94
+29,1,systolic bp,137
+29,-6,systolic bp,106
+29,6,diastolic bp,68
+29,6,hr,61
+29,-6,o2 sat,98
+29,1,pain score,5
+29,0,systolic bp,115
+29,3,diastolic bp,73
+29,4,hr,75
+29,-6,pain score,0
+29,2,pain score,0
+29,2,hr,78
+29,4,pain score,0
+29,0,hr,49
+29,3,pain score,0
+29,0,o2 sat,97
+29,6,pain score,8
+29,5,systolic bp,120
+29,4,systolic bp,136
+29,5,o2 sat,98
+29,-6,bmi,21.5
+29,4,o2 sat,93
+29,1,hr,55
+29,6,systolic bp,132
+29,2,o2 sat,93
+29,6,resp,20
+29,2,resp,18
+29,5,resp,18
+29,3,hr,99
+29,3,resp,20
+29,5,hr,63
+29,2,diastolic bp,56
+29,-6,resp,16
+29,4,functional status,7
+29,5,pain score,5
+29,4,resp,18
+29,-6,diastolic bp,64
+29,3,o2 sat,97
+29,0,diastolic bp,58
+29,4,diastolic bp,68
+29,3,systolic bp,123
+33,0,o2 sat,97
+33,0,bmi,29.2
+33,0,systolic bp,136
+33,0,diastolic bp,84
+33,-4,bmi,28.5
+33,0,hr,60
+33,0,resp,18
+33,0,functional status,7
+33,0,pain score,5
+34,3,systolic bp,103
+34,7,o2 sat,98
+34,5,systolic bp,137
+34,0,hr,59
+34,5,o2 sat,97
+34,6,hr,79
+34,3,diastolic bp,56
+34,4,pain score,0
+34,4,o2 sat,96
+34,7,pain score,2
+34,4,diastolic bp,68
+34,5,resp,18
+34,2,diastolic bp,55
+34,6,systolic bp,122
+34,3,resp,20
+34,2,pain score,5
+34,0,functional status,7
+34,6,pain score,6
+34,1,pain score,0
+34,3,hr,67
+34,2,hr,95
+34,-5,resp,16
+34,2,functional status,7
+34,6,resp,18
+34,0,bmi,0
+34,7,resp,18
+34,2,resp,18
+34,1,hr,89
+34,6,diastolic bp,64
+34,2,o2 sat,92
+34,5,pain score,3
+34,1,systolic bp,109
+34,0,diastolic bp,64
+34,0,pain score,0
+34,7,hr,62
+34,-5,o2 sat,98
+34,-5,bmi,26.9
+34,4,systolic bp,138
+34,3,pain score,3
+34,1,o2 sat,95
+34,1,diastolic bp,66
+34,4,hr,95
+34,0,systolic bp,108
+34,0,o2 sat,99
+34,6,o2 sat,96
+34,0,resp,20
+34,7,systolic bp,115
+34,1,resp,18
+34,5,hr,96
+34,7,diastolic bp,60
+34,-5,systolic bp,140
+34,-5,hr,79
+34,3,o2 sat,93
+34,2,systolic bp,116
+34,4,resp,22
+34,-5,diastolic bp,72
+34,5,diastolic bp,65
+38,4,systolic bp,131
+38,0,alcohol amount,2-3 beers
+38,6,resp,18
+38,0,o2 sat,97
+38,3,pain score,5
+38,9,resp,19
+38,1,diastolic bp,82
+38,2,pain score,5
+38,4,resp,20
+38,5,pain score,5
+38,11,diastolic bp,79
+38,8,bmi,44.7
+38,10,systolic bp,159
+38,9,o2 sat,92
+38,11,systolic bp,121
+38,6,systolic bp,160
+38,2,bmi,43.6
+38,6,pain score,0
+38,9,systolic bp,153
+38,0,systolic bp,143
+38,9,diastolic bp,91
+38,6,o2 sat,95
+38,4,diastolic bp,84
+38,0,resp,18
+38,8,diastolic bp,102
+38,3,resp,18
+38,11,hr,82
+38,2,diastolic bp,82
+38,6,hr,92
+38,9,bmi,44.5
+38,4,hr,84
+38,7,diastolic bp,100
+38,7,o2 sat,94
+38,8,pain score,5
+38,7,hr,67
+38,4,bmi,0
+38,3,o2 sat,92
+38,10,pain score,6
+38,7,systolic bp,169
+38,0,bmi,46.2
+38,9,functional status,7
+38,3,diastolic bp,82
+38,10,hr,118
+38,8,resp,18
+38,2,functional status,6
+38,10,o2 sat,94
+38,11,resp,18
+38,5,o2 sat,94
+38,5,resp,22
+38,8,hr,78
+38,4,pain score,5
+38,0,diastolic bp,103
+38,7,pain score,5
+38,1,o2 sat,98
+38,5,hr,75
+38,1,pain score,5
+38,6,bmi,45.2
+38,0,hr,92
+38,1,systolic bp,139
+38,8,systolic bp,173
+38,7,resp,18
+38,6,diastolic bp,88
+38,8,o2 sat,93
+38,1,resp,18
+38,3,hr,88
+38,5,systolic bp,162
+38,2,o2 sat,94
+38,2,hr,72
+38,9,hr,89
+38,5,diastolic bp,95
+38,3,systolic bp,139
+38,0,pain score,8
+38,11,o2 sat,93
+38,9,pain score,2
+38,0,functional status,6
+38,10,diastolic bp,114
+38,1,hr,92
+38,10,resp,18
+38,2,resp,18
+38,2,systolic bp,133
+38,4,o2 sat,94
+38,10,bmi,44.3
+38,6,functional status,6
+38,11,pain score,10
+39,0,pain score,0
+39,-3,alcohol amount,2
+39,0,bmi,26.3
+39,-3,resp,16
+39,4,o2 sat,94
+39,5,pain score,0
+39,3,functional status,2
+39,1,diastolic bp,69
+39,-3,hr,98
+39,5,systolic bp,133
+39,4,systolic bp,123
+39,-3,diastolic bp,80
+39,1,pain score,2
+39,-3,systolic bp,114
+39,3,temp,36.6
+39,-3,temp,36.2
+39,2,systolic bp,190
+39,5,o2 sat,94
+39,0,functional status,0
+39,1,hr,97
+39,4,temp,35.9
+39,3,systolic bp,139
+39,4,hr,108
+39,2,diastolic bp,97
+39,2,temp,36.1
+39,2,resp,20
+39,-3,o2 sat,96
+39,3,pain score,4
+39,3,resp,20
+39,1,systolic bp,131
+39,3,diastolic bp,72
+39,-3,bmi,26.3
+39,4,pain score,0
+39,4,diastolic bp,70
+39,5,diastolic bp,65
+39,1,o2 sat,95
+39,3,hr,104
+39,-3,pain score,0
+39,5,temp,36.1
+39,2,pain score,4
+39,5,hr,110
+39,3,o2 sat,92
+39,2,hr,98
+39,1,resp,18
+39,1,temp,37
+39,2,o2 sat,97
+39,5,resp,18
+39,4,resp,18
+39,-3,functional status,7
+41,0,hr,91
+41,2,resp,20
+41,1,systolic bp,138
+41,0,bmi,59
+41,0,functional status,4
+41,-4,systolic bp,129
+41,2,o2 sat,95
+41,0,systolic bp,142
+41,2,pain score,0
+41,-4,hr,82
+41,3,diastolic bp,66
+41,0,o2 sat,99
+41,3,systolic bp,144
+41,1,pain score,2
+41,0,resp,20
+41,2,diastolic bp,72
+41,3,resp,20
+41,1,o2 sat,94
+41,1,resp,22
+41,1,hr,107
+41,-4,o2 sat,96
+41,-4,bmi,59
+41,2,functional status,3
+41,1,diastolic bp,63
+41,3,pain score,0
+41,0,diastolic bp,66
+41,3,o2 sat,95
+41,-4,diastolic bp,63
+41,0,pain score,0
+41,2,systolic bp,187
+41,-4,resp,20
+41,2,hr,99
+41,3,hr,78
+42,1,pain score,0
+42,0,hr,78
+42,0,diastolic bp,64
+42,-7,resp,18
+42,-7,diastolic bp,60
+42,0,functional status,7
+42,-7,systolic bp,141
+42,1,functional status,7
+42,1,diastolic bp,52
+42,0,systolic bp,138
+42,0,bmi,27
+42,0,resp,18
+42,0,o2 sat,99
+42,-7,bmi,27
+42,-7,hr,61
+42,1,o2 sat,98
+42,-7,o2 sat,100
+42,1,hr,77
+42,1,systolic bp,114
+42,0,pain score,0
+42,1,resp,19
+43,0,diastolic bp,82
+43,1,pain score,1
+43,2,hr,62
+43,1,o2 sat,99
+43,1,resp,16
+43,0,o2 sat,96
+43,1,systolic bp,107
+43,1,diastolic bp,59
+43,2,diastolic bp,37
+43,1,bmi,17.4
+43,2,systolic bp,93
+43,1,hr,96
+43,0,resp,18
+43,0,systolic bp,131
+43,0,pain score,5
+43,2,pain score,2
+43,0,bmi,17.2
+43,0,hr,115
+43,2,o2 sat,98
+43,0,alcohol use,No
+43,2,resp,16
+43,1,functional status,7
+45,4,diastolic bp,57
+45,2,pain score,6
+45,1,diastolic bp,57
+45,2,resp,20
+45,0,resp,18
+45,4,hr,106
+45,2,hr,106
+45,1,systolic bp,117
+45,3,hr,88
+45,2,systolic bp,127
+45,3,systolic bp,110
+45,1,hr,122
+45,0,hr,108
+45,3,o2 sat,92
+45,3,resp,19
+45,2,o2 sat,94
+45,3,functional status,7
+45,3,diastolic bp,67
+45,2,diastolic bp,64
+45,0,functional status,7
+45,0,alcohol amount,2-3 beers
+45,0,systolic bp,140
+45,0,bmi,25
+45,3,pain score,4
+45,1,o2 sat,96
+45,4,o2 sat,91
+45,4,systolic bp,120
+45,1,resp,20
+45,0,pain score,8
+45,0,o2 sat,99
+45,1,pain score,2
+45,4,resp,21
+45,0,diastolic bp,70
+45,4,pain score,6
+46,0,functional status,7
+46,0,o2 sat,97
+46,-3,pain score,0
+46,0,systolic bp,169
+46,0,diastolic bp,112
+46,0,hr,63
+46,0,pain score,5
+46,-3,bmi,25.4
+46,0,resp,16
+48,-6,diastolic bp,92
+48,1,pain score,0
+48,1,diastolic bp,93
+48,-6,systolic bp,141
+48,0,temp,36.4
+48,1,hr,112
+48,1,systolic bp,170
+48,0,bmi,39.8
+48,1,temp,36.9
+48,1,resp,19
+48,0,functional status,7
+48,0,diastolic bp,96
+48,-6,bmi,39.8
+48,0,hr,81
+48,-6,hr,83
+48,0,o2 sat,98
+48,-6,o2 sat,100
+48,1,o2 sat,100
+48,0,systolic bp,140
+48,0,resp,18
+48,0,pain score,0
+49,-7,o2 sat,97
+49,-7,hr,83
+49,0,hr,67
+49,0,resp,20
+49,0,temp,36.7
+49,0,functional status,7
+49,0,diastolic bp,97
+49,0,bmi,23
+49,0,pain score,0
+49,-7,diastolic bp,84
+49,-7,bmi,22.9
+49,0,systolic bp,139
+49,-7,systolic bp,144
+49,0,o2 sat,100
+51,-3,pain score,0
+51,3,o2 sat,94
+51,6,systolic bp,179
+51,7,pain score,4
+51,1,diastolic bp,50
+51,-3,hr,59
+51,2,resp,20
+51,2,pain score,4
+51,5,o2 sat,92
+51,2,o2 sat,94
+51,0,diastolic bp,77
+51,4,hr,64
+51,3,hr,62
+51,1,hr,72
+51,7,diastolic bp,82
+51,1,o2 sat,92
+51,7,functional status,7
+51,2,diastolic bp,50
+51,2,hr,63
+51,1,pain score,10
+51,7,systolic bp,149
+51,4,systolic bp,177
+51,-3,o2 sat,95
+51,7,resp,18
+51,0,resp,18
+51,4,o2 sat,96
+51,0,o2 sat,94
+51,3,systolic bp,101
+51,2,systolic bp,80
+51,5,pain score,8
+51,6,diastolic bp,82
+51,7,o2 sat,96
+51,5,hr,66
+51,1,resp,20
+51,6,resp,18
+51,0,functional status,7
+51,-3,resp,28
+51,6,pain score,8
+51,-3,diastolic bp,65
+51,7,hr,78
+51,-3,bmi,33.3
+51,4,diastolic bp,81
+51,6,o2 sat,94
+51,-3,systolic bp,122
+51,5,diastolic bp,69
+51,3,resp,20
+51,1,systolic bp,96
+51,0,systolic bp,120
+51,4,functional status,2
+51,4,pain score,4
+51,0,pain score,10
+51,3,diastolic bp,52
+51,4,resp,20
+51,5,resp,18
+51,6,hr,71
+51,0,hr,79
+51,3,pain score,5
+51,5,systolic bp,142
+52,0,hr,80
+52,0,systolic bp,115
+52,0,functional status,7
+52,0,pain score,5
+52,0,resp,18
+52,0,bmi,0
+52,0,diastolic bp,86
+52,0,o2 sat,99
+54,1,resp,18
+54,2,resp,18
+54,2,pain score,6
+54,0,hr,60
+54,1,pain score,6
+54,2,hr,93
+54,2,o2 sat,96
+54,2,diastolic bp,47
+54,1,o2 sat,100
+54,1,functional status,7
+54,0,o2 sat,100
+54,0,resp,18
+54,0,diastolic bp,80
+54,1,hr,58
+54,1,diastolic bp,84
+54,0,bmi,26.5
+54,1,bmi,0
+54,0,alcohol use,No
+54,1,systolic bp,121
+54,0,systolic bp,127
+54,2,systolic bp,104
+54,0,pain score,9
+55,11,pain score,6
+55,12,systolic bp,130
+55,4,resp,20
+55,1,resp,20
+55,2,temp,37.8
+55,15,pain score,8
+55,8,diastolic bp,96
+55,0,bmi,24.5
+55,6,temp,37.6
+55,15,o2 sat,97
+55,7,diastolic bp,58
+55,1,pain score,0
+55,7,systolic bp,117
+55,8,hr,88
+55,9,hr,105
+55,0,hr,102
+55,3,functional status,7
+55,4,o2 sat,97
+55,4,diastolic bp,76
+55,2,o2 sat,97
+55,16,diastolic bp,74
+55,13,temp,36.8
+55,3,pain score,8
+55,4,hr,85
+55,15,hr,92
+55,11,resp,18
+55,16,bmi,21.3
+55,15,diastolic bp,72
+55,14,resp,20
+55,1,hr,87
+55,8,systolic bp,138
+55,0,diastolic bp,76
+55,5,o2 sat,98
+55,6,functional status,3
+55,11,o2 sat,94
+55,13,o2 sat,100
+55,10,hr,95
+55,6,hr,107
+55,2,systolic bp,123
+55,14,temp,37.2
+55,10,systolic bp,140
+55,12,o2 sat,97
+55,13,resp,20
+55,5,resp,20
+55,7,pain score,2
+55,13,diastolic bp,73
+55,8,resp,18
+55,5,pain score,8
+55,9,o2 sat,93
+55,6,diastolic bp,65
+55,3,hr,89
+55,4,temp,38.3
+55,2,resp,18
+55,14,systolic bp,150
+55,8,o2 sat,100
+55,16,o2 sat,98
+55,3,systolic bp,152
+55,12,pain score,6
+55,2,pain score,8
+55,3,temp,37.9
+55,14,bmi,22.3
+55,16,pain score,0
+55,6,systolic bp,128
+55,5,temp,38.2
+55,10,o2 sat,96
+55,9,diastolic bp,87
+55,11,systolic bp,140
+55,0,o2 sat,100
+55,9,pain score,0
+55,12,temp,36.1
+55,0,temp,37.7
+55,9,temp,36.4
+55,5,diastolic bp,57
+55,1,systolic bp,134
+55,10,temp,37.4
+55,12,hr,86
+55,11,temp,37.3
+55,16,temp,36.6
+55,2,hr,71
+55,0,resp,20
+55,12,diastolic bp,71
+55,13,pain score,8
+55,5,systolic bp,120
+55,0,functional status,7
+55,10,pain score,0
+55,6,pain score,2
+55,9,resp,18
+55,16,systolic bp,121
+55,6,resp,18
+55,12,resp,18
+55,15,temp,37.6
+55,7,hr,95
+55,0,pain score,0
+55,3,o2 sat,99
+55,1,diastolic bp,67
+55,7,temp,38.7
+55,5,hr,86
+55,3,resp,18
+55,0,systolic bp,132
+55,10,functional status,7
+55,15,resp,18
+55,16,hr,95
+55,14,diastolic bp,74
+55,10,diastolic bp,81
+55,14,pain score,7
+55,14,hr,88
+55,8,pain score,7
+55,4,systolic bp,120
+55,11,diastolic bp,87
+55,13,functional status,6
+55,7,resp,17
+55,12,bmi,22
+55,9,systolic bp,134
+55,16,resp,18
+55,14,o2 sat,98
+55,6,o2 sat,97
+55,3,diastolic bp,105
+55,1,o2 sat,98
+55,11,hr,87
+55,4,pain score,9
+55,7,o2 sat,96
+55,10,resp,18
+55,1,temp,37.5
+55,13,hr,89
+55,15,systolic bp,126
+55,2,diastolic bp,68
+55,8,temp,36.6
+55,13,systolic bp,132
+59,4,o2 sat,99
+59,3,resp,18
+59,4,pain score,0
+59,2,pain score,0
+59,1,hr,67
+59,1,bmi,21.6
+59,2,resp,20
+59,0,functional status,7
+59,1,systolic bp,108
+59,1,diastolic bp,74
+59,3,functional status,2
+59,1,resp,18
+59,4,hr,86
+59,0,hr,87
+59,4,diastolic bp,83
+59,0,o2 sat,94
+59,3,systolic bp,136
+59,1,temp,36
+59,0,diastolic bp,93
+59,3,temp,36.6
+59,2,o2 sat,96
+59,2,hr,108
+59,2,diastolic bp,82
+59,3,pain score,0
+59,1,pain score,0
+59,2,systolic bp,127
+59,4,systolic bp,118
+59,3,hr,110
+59,3,o2 sat,93
+59,1,o2 sat,95
+59,2,temp,37.7
+59,3,diastolic bp,79
+59,0,bmi,21.9
+59,4,resp,18
+59,0,pain score,6
+59,0,resp,16
+59,0,systolic bp,121
+59,0,temp,35.4
+59,4,temp,36
+60,6,diastolic bp,62
+60,1,resp,17
+60,2,resp,18
+60,0,diastolic bp,58
+60,0,resp,17
+60,6,bmi,24
+60,3,hr,92
+60,1,pain score,5
+60,4,hr,82
+60,2,hr,84
+60,2,bmi,24.1
+60,3,resp,20
+60,5,systolic bp,108
+60,3,diastolic bp,56
+60,4,resp,20
+60,-2,hr,67
+60,5,resp,17
+60,0,functional status,7
+60,-2,o2 sat,98
+60,1,diastolic bp,63
+60,5,bmi,24.8
+60,0,pain score,9
+60,0,bmi,23.9
+60,-2,systolic bp,104
+60,5,diastolic bp,59
+60,3,pain score,1
+60,6,o2 sat,98
+60,0,systolic bp,130
+60,4,bmi,25.4
+60,2,systolic bp,104
+60,0,hr,76
+60,6,systolic bp,124
+60,2,diastolic bp,66
+60,1,hr,70
+60,1,o2 sat,96
+60,-2,bmi,23.9
+60,2,o2 sat,96
+60,4,diastolic bp,58
+60,-2,resp,16
+60,4,o2 sat,96
+60,6,resp,18
+60,6,pain score,2
+60,5,pain score,5
+60,4,pain score,0
+60,2,pain score,3
+60,4,systolic bp,106
+60,1,systolic bp,110
+60,1,bmi,24.1
+60,3,o2 sat,96
+60,5,functional status,2
+60,5,hr,68
+60,3,bmi,24
+60,-2,diastolic bp,60
+60,1,functional status,2
+60,6,hr,77
+60,0,o2 sat,100
+60,5,o2 sat,95
+60,3,systolic bp,101
+61,0,resp,18
+61,0,pain score,5
+61,1,diastolic bp,74
+61,0,diastolic bp,93
+61,0,systolic bp,150
+61,1,systolic bp,124
+61,1,resp,18
+61,0,alcohol use,No
+61,1,pain score,5
+61,0,o2 sat,98
+61,0,functional status,7
+61,1,hr,96
+61,0,bmi,28.1
+61,0,hr,85
+61,1,o2 sat,97
+62,1,pain score,8
+62,0,resp,20
+62,4,o2 sat,98
+62,-5,pain score,0
+62,-5,diastolic bp,82
+62,4,diastolic bp,59
+62,3,systolic bp,135
+62,5,systolic bp,129
+62,0,o2 sat,98
+62,4,hr,83
+62,0,bmi,38.5
+62,6,pain score,4
+62,5,hr,75
+62,7,functional status,4
+62,5,resp,18
+62,5,diastolic bp,70
+62,0,pain score,0
+62,1,systolic bp,130
+62,6,bmi,43.1
+62,7,diastolic bp,67
+62,5,o2 sat,99
+62,0,alcohol amount,1-2 drinks
+62,4,resp,18
+62,6,systolic bp,134
+62,0,diastolic bp,82
+62,6,resp,18
+62,6,o2 sat,98
+62,1,o2 sat,97
+62,3,functional status,7
+62,2,systolic bp,133
+62,7,pain score,6
+62,1,resp,18
+62,7,o2 sat,99
+62,0,hr,68
+62,-5,o2 sat,97
+62,2,hr,100
+62,6,diastolic bp,60
+62,6,hr,80
+62,-5,hr,68
+62,4,systolic bp,119
+62,7,resp,18
+62,-5,resp,12
+62,0,functional status,7
+62,5,pain score,0
+62,2,pain score,0
+62,7,hr,73
+62,0,systolic bp,166
+62,-5,systolic bp,161
+62,2,diastolic bp,79
+62,2,bmi,39.7
+62,4,bmi,39.7
+62,2,o2 sat,94
+62,3,o2 sat,98
+62,4,pain score,7
+62,3,resp,16
+62,-5,alcohol amount,1-2 drinks
+62,2,resp,18
+62,3,diastolic bp,74
+62,3,pain score,0
+62,7,systolic bp,143
+62,3,hr,77
+62,-5,bmi,38.5
+62,1,hr,81
+62,1,diastolic bp,74
+63,1,hr,77
+63,1,pain score,6
+63,0,o2 sat,95
+63,-7,o2 sat,96
+63,1,resp,18
+63,1,systolic bp,116
+63,-7,pain score,0
+63,0,systolic bp,110
+63,-7,bmi,25
+63,-7,systolic bp,100
+63,0,resp,16
+63,-7,diastolic bp,66
+63,0,hr,95
+63,1,o2 sat,97
+63,1,diastolic bp,53
+63,-7,resp,16
+63,0,functional status,7
+63,1,functional status,6
+63,-7,hr,72
+63,0,diastolic bp,57
+63,0,pain score,0
+66,0,systolic bp,126
+66,-2,diastolic bp,59
+66,1,resp,20
+66,1,hr,100
+66,0,o2 sat,93
+66,0,diastolic bp,61
+66,-2,systolic bp,114
+66,1,temp,38
+66,1,pain score,7
+66,0,bmi,17.5
+66,1,systolic bp,108
+66,0,temp,36.7
+66,1,diastolic bp,50
+66,0,pain score,6
+66,-2,hr,82
+66,0,functional status,7
+66,-2,o2 sat,96
+66,0,hr,82
+66,1,o2 sat,95
+66,-2,bmi,17.5
+66,0,resp,18
+67,0,functional status,7
+67,6,resp,18
+67,4,resp,18
+67,2,systolic bp,93
+67,1,o2 sat,95
+67,1,pain score,10
+67,3,functional status,2
+67,0,o2 sat,92
+67,6,functional status,2
+67,4,pain score,5
+67,3,o2 sat,91
+67,1,resp,20
+67,5,resp,18
+67,7,pain score,5
+67,7,diastolic bp,64
+67,0,hr,95
+67,2,pain score,4
+67,3,hr,97
+67,5,hr,90
+67,5,o2 sat,94
+67,3,systolic bp,115
+67,3,pain score,2
+67,2,resp,18
+67,7,systolic bp,107
+67,1,hr,96
+67,2,o2 sat,95
+67,1,diastolic bp,64
+67,1,systolic bp,129
+67,3,resp,18
+67,0,diastolic bp,72
+67,0,systolic bp,132
+67,7,hr,88
+67,0,resp,18
+67,2,hr,98
+67,6,hr,86
+67,6,diastolic bp,58
+67,7,o2 sat,95
+67,6,o2 sat,95
+67,5,pain score,5
+67,3,diastolic bp,59
+67,5,diastolic bp,61
+67,6,pain score,5
+67,2,diastolic bp,53
+67,4,o2 sat,93
+67,4,diastolic bp,59
+67,4,systolic bp,111
+67,4,hr,90
+67,6,systolic bp,105
+67,5,systolic bp,110
+67,0,pain score,5
+67,7,resp,18
+68,13,o2 sat,98
+68,12,diastolic bp,74
+68,14,systolic bp,141
+68,8,temp,35.9
+68,13,temp,36.7
+68,7,hr,92
+68,22,systolic bp,121
+68,20,pain score,10
+68,17,bmi,35.7
+68,11,o2 sat,100
+68,4,diastolic bp,82
+68,11,resp,18
+68,17,resp,20
+68,5,pain score,1
+68,13,pain score,0
+68,7,resp,24
+68,1,temp,36.7
+68,21,pain score,6
+68,22,diastolic bp,65
+68,10,resp,27
+68,16,resp,20
+68,1,diastolic bp,69
+68,12,pain score,7
+68,15,o2 sat,97
+68,13,resp,24
+68,14,hr,87
+68,13,bmi,35.4
+68,16,functional status,2
+68,23,diastolic bp,77
+68,11,systolic bp,173
+68,17,temp,36.7
+68,23,temp,36.1
+68,9,temp,37.4
+68,6,bmi,0
+68,16,pain score,0
+68,9,systolic bp,185
+68,21,systolic bp,138
+68,15,pain score,10
+68,16,o2 sat,98
+68,19,o2 sat,95
+68,5,temp,36
+68,12,systolic bp,152
+68,21,o2 sat,99
+68,6,o2 sat,100
+68,9,functional status,1
+68,11,diastolic bp,77
+68,4,temp,36
+68,13,diastolic bp,66
+68,18,diastolic bp,67
+68,8,pain score,0
+68,4,resp,22
+68,9,resp,21
+68,6,resp,22
+68,14,resp,20
+68,7,temp,36.4
+68,8,resp,25
+68,6,hr,94
+68,15,temp,37
+68,3,o2 sat,97
+68,5,o2 sat,97
+68,12,o2 sat,94
+68,8,o2 sat,99
+68,6,temp,36.2
+68,23,resp,18
+68,7,o2 sat,100
+68,0,functional status,7
+68,2,hr,79
+68,21,hr,87
+68,22,temp,37
+68,22,hr,87
+68,4,hr,94
+68,10,hr,88
+68,19,hr,88
+68,0,o2 sat,0
+68,2,o2 sat,96
+68,5,systolic bp,164
+68,19,diastolic bp,73
+68,7,diastolic bp,79
+68,8,diastolic bp,89
+68,5,hr,88
+68,15,diastolic bp,73
+68,20,systolic bp,139
+68,21,resp,18
+68,15,resp,20
+68,16,temp,36.7
+68,10,bmi,34.7
+68,2,functional status,4
+68,0,temp,37.4
+68,2,temp,37.5
+68,13,systolic bp,133
+68,22,resp,18
+68,0,diastolic bp,67
+68,6,pain score,9
+68,8,hr,88
+68,18,pain score,7
+68,11,pain score,5
+68,17,pain score,10
+68,22,bmi,29.4
+68,0,systolic bp,147
+68,2,diastolic bp,64
+68,15,systolic bp,136
+68,1,hr,98
+68,10,pain score,6
+68,7,pain score,0
+68,22,o2 sat,99
+68,17,systolic bp,128
+68,11,temp,36.3
+68,12,bmi,35.3
+68,3,diastolic bp,70
+68,10,diastolic bp,70
+68,2,resp,20
+68,6,systolic bp,117
+68,4,systolic bp,154
+68,4,o2 sat,99
+68,23,pain score,0
+68,19,bmi,35.6
+68,18,bmi,35.7
+68,1,o2 sat,94
+68,21,diastolic bp,71
+68,18,o2 sat,97
+68,12,resp,20
+68,18,resp,18
+68,3,systolic bp,139
+68,3,hr,81
+68,12,hr,89
+68,11,hr,87
+68,16,bmi,35.6
+68,3,pain score,0
+68,1,resp,20
+68,0,pain score,10
+68,3,resp,20
+68,19,temp,37
+68,17,functional status,1
+68,19,resp,20
+68,1,systolic bp,136
+68,14,pain score,0
+68,23,o2 sat,99
+68,5,diastolic bp,89
+68,22,pain score,0
+68,7,systolic bp,150
+68,15,hr,94
+68,14,o2 sat,99
+68,14,diastolic bp,75
+68,20,diastolic bp,69
+68,10,o2 sat,96
+68,4,bmi,0
+68,0,bmi,26.6
+68,21,temp,37.1
+68,17,hr,81
+68,5,resp,24
+68,17,o2 sat,99
+68,3,temp,36.6
+68,18,hr,87
+68,12,temp,37.2
+68,9,pain score,2
+68,17,diastolic bp,69
+68,16,hr,92
+68,21,bmi,29.3
+68,0,hr,89
+68,23,hr,77
+68,12,functional status,0
+68,19,functional status,0
+68,9,hr,89
+68,20,hr,93
+68,20,o2 sat,94
+68,14,temp,36.4
+68,13,hr,95
+68,18,temp,37.6
+68,0,resp,18
+68,2,systolic bp,122
+68,4,pain score,2
+68,8,systolic bp,185
+68,16,diastolic bp,68
+68,2,pain score,7
+68,19,systolic bp,133
+68,23,systolic bp,138
+68,15,bmi,35.6
+68,9,o2 sat,95
+68,16,systolic bp,116
+68,23,functional status,1
+68,10,systolic bp,152
+68,6,diastolic bp,66
+68,8,bmi,35.4
+68,20,bmi,35.7
+68,9,diastolic bp,87
+68,18,systolic bp,119
+68,5,functional status,1
+68,19,pain score,8
+68,20,resp,20
+68,20,temp,38
+68,10,temp,36.6
+68,1,pain score,10
+69,0,resp,18
+69,0,diastolic bp,69
+69,2,diastolic bp,73
+69,2,hr,80
+69,0,o2 sat,99
+69,-7,bmi,59.6
+69,2,o2 sat,97
+69,-7,diastolic bp,79
+69,2,pain score,0
+69,-7,o2 sat,99
+69,1,hr,101
+69,-7,resp,20
+69,2,systolic bp,140
+69,1,diastolic bp,65
+69,-7,systolic bp,164
+69,2,functional status,7
+69,-7,hr,74
+69,2,resp,20
+69,0,pain score,6
+69,1,resp,18
+69,0,hr,84
+69,1,pain score,0
+69,0,functional status,7
+69,1,o2 sat,98
+69,1,systolic bp,132
+69,0,systolic bp,146
+69,0,bmi,59.6
+70,1,pain score,3
+70,0,functional status,7
+70,1,o2 sat,98
+70,-5,bmi,20.7
+70,1,diastolic bp,69
+70,0,pain score,0
+70,-5,resp,25
+70,0,diastolic bp,66
+70,1,systolic bp,123
+70,2,hr,98
+70,3,temp,36.3
+70,2,diastolic bp,79
+70,2,resp,20
+70,-5,temp,36.5
+70,-5,pain score,0
+70,0,bmi,0
+70,3,diastolic bp,68
+70,1,temp,36.2
+70,2,pain score,5
+70,0,temp,35.4
+70,2,o2 sat,98
+70,0,hr,91
+70,2,systolic bp,144
+70,3,systolic bp,117
+70,3,hr,94
+70,1,hr,98
+70,0,resp,20
+70,3,o2 sat,94
+70,1,resp,20
+70,3,functional status,6
+70,-5,systolic bp,149
+70,3,pain score,5
+70,3,resp,19
+70,-5,diastolic bp,71
+70,-5,hr,105
+70,0,o2 sat,98
+70,0,systolic bp,128
+70,2,temp,37.1
+72,-1,systolic bp,125
+72,-1,functional status,7
+72,0,o2 sat,98
+72,0,hr,56
+72,-1,resp,18
+72,-1,bmi,31.4
+72,0,temp,36.6
+72,0,systolic bp,127
+72,-1,hr,54
+72,0,resp,18
+72,0,bmi,31.4
+72,0,diastolic bp,75
+72,0,functional status,7
+72,-1,o2 sat,98
+72,-1,diastolic bp,76
+72,0,pain score,0
+74,0,systolic bp,115
+74,0,o2 sat,100
+74,0,functional status,7
+74,0,diastolic bp,54
+74,0,bmi,19.9
+74,0,pain score,5
+74,-4,pain score,8
+74,0,resp,18
+74,0,hr,78
+74,-4,bmi,20.2
+78,0,diastolic bp,73
+78,0,bmi,25.4
+78,1,systolic bp,130
+78,1,hr,67
+78,0,hr,70
+78,1,pain score,4
+78,0,systolic bp,136
+78,0,pain score,5
+78,0,o2 sat,98
+78,-5,o2 sat,100
+78,-5,hr,76
+78,1,diastolic bp,69
+78,1,functional status,5
+78,1,resp,16
+78,1,o2 sat,97
+78,0,resp,20
+78,-5,diastolic bp,81
+78,-5,systolic bp,131
+78,0,functional status,7
+78,-5,bmi,25.4
+80,2,o2 sat,94
+80,0,pain score,6
+80,6,systolic bp,114
+80,1,diastolic bp,64
+80,5,o2 sat,98
+80,7,systolic bp,114
+80,2,diastolic bp,55
+80,6,o2 sat,98
+80,6,diastolic bp,67
+80,7,diastolic bp,68
+80,2,systolic bp,98
+80,4,systolic bp,130
+80,2,hr,67
+80,4,pain score,0
+80,0,systolic bp,117
+80,3,o2 sat,98
+80,1,pain score,4
+80,7,resp,18
+80,3,resp,20
+80,7,hr,64
+80,7,functional status,7
+80,2,pain score,0
+80,4,hr,62
+80,0,functional status,7
+80,5,resp,20
+80,0,bmi,39.2
+80,1,resp,18
+80,0,resp,18
+80,7,o2 sat,94
+80,0,o2 sat,97
+80,5,diastolic bp,68
+80,3,systolic bp,119
+80,4,o2 sat,94
+80,8,hr,71
+80,4,resp,20
+80,8,pain score,6
+80,8,resp,20
+80,8,o2 sat,96
+80,2,resp,18
+80,6,pain score,5
+80,6,resp,20
+80,5,pain score,0
+80,0,hr,80
+80,8,systolic bp,94
+80,5,systolic bp,115
+80,8,diastolic bp,52
+80,3,pain score,0
+80,6,hr,69
+80,0,diastolic bp,62
+80,4,functional status,5
+80,1,hr,66
+80,4,diastolic bp,65
+80,7,pain score,2
+80,1,o2 sat,99
+80,1,systolic bp,121
+80,3,hr,64
+80,5,hr,58
+80,3,diastolic bp,60
+82,4,systolic bp,143
+82,2,o2 sat,96
+82,5,diastolic bp,78
+82,1,diastolic bp,91
+82,1,hr,92
+82,5,resp,18
+82,3,o2 sat,95
+82,-5,o2 sat,98
+82,5,o2 sat,98
+82,4,pain score,3
+82,2,pain score,6
+82,0,o2 sat,100
+82,-5,hr,79
+82,4,diastolic bp,76
+82,0,functional status,7
+82,5,systolic bp,173
+82,3,systolic bp,134
+82,1,systolic bp,127
+82,0,resp,18
+82,-5,pain score,0
+82,0,pain score,6
+82,-5,diastolic bp,63
+82,2,systolic bp,117
+82,1,pain score,3
+82,0,diastolic bp,65
+82,-5,resp,79
+82,3,diastolic bp,68
+82,3,functional status,3
+82,2,diastolic bp,80
+82,3,resp,17
+82,0,hr,75
+82,5,pain score,3
+82,4,hr,107
+82,3,pain score,3
+82,4,resp,18
+82,4,o2 sat,97
+82,-5,bmi,26.4
+82,1,o2 sat,98
+82,2,resp,18
+82,5,hr,104
+82,3,hr,82
+82,0,bmi,26.4
+82,2,hr,65
+82,-5,systolic bp,145
+82,1,resp,18
+82,0,systolic bp,132
+84,4,pain score,0
+84,8,hr,77
+84,3,resp,22
+84,5,pain score,3
+84,7,hr,99
+84,8,pain score,8
+84,6,pain score,4
+84,1,pain score,0
+84,0,systolic bp,156
+84,6,o2 sat,96
+84,6,resp,18
+84,5,o2 sat,93
+84,7,functional status,7
+84,0,temp,35.9
+84,3,o2 sat,96
+84,3,systolic bp,115
+84,4,systolic bp,120
+84,1,hr,97
+84,6,systolic bp,116
+84,5,hr,101
+84,0,resp,18
+84,0,bmi,29.7
+84,7,diastolic bp,94
+84,4,functional status,5
+84,3,hr,95
+84,1,systolic bp,149
+84,8,resp,20
+84,4,hr,108
+84,6,temp,36.3
+84,0,functional status,7
+84,7,systolic bp,137
+84,5,resp,20
+84,8,temp,35.3
+84,3,temp,36.7
+84,7,pain score,4
+84,5,systolic bp,95
+84,4,resp,18
+84,1,diastolic bp,87
+84,7,temp,36.6
+84,7,resp,18
+84,0,diastolic bp,80
+84,1,o2 sat,97
+84,0,o2 sat,99
+84,4,diastolic bp,83
+84,6,hr,95
+84,7,o2 sat,93
+84,0,hr,91
+84,4,o2 sat,97
+84,4,temp,36.5
+84,8,systolic bp,138
+84,2,pain score,9
+84,6,diastolic bp,68
+84,1,temp,35.9
+84,8,diastolic bp,78
+84,5,diastolic bp,65
+84,8,o2 sat,90
+84,5,temp,35.9
+84,1,resp,16
+84,0,pain score,0
+84,3,diastolic bp,98
+84,3,pain score,7
+91,2,functional status,7
+91,3,hr,82
+91,0,functional status,7
+91,-5,o2 sat,98
+91,1,o2 sat,98
+91,0,resp,18
+91,2,o2 sat,95
+91,1,pain score,0
+91,2,diastolic bp,54
+91,1,resp,18
+91,3,systolic bp,163
+91,2,resp,18
+91,-5,bmi,29.4
+91,3,o2 sat,93
+91,1,systolic bp,90
+91,0,systolic bp,128
+91,3,diastolic bp,72
+91,2,pain score,1
+91,0,hr,77
+91,0,o2 sat,98
+91,1,diastolic bp,50
+91,2,hr,69
+91,-5,diastolic bp,63
+91,0,pain score,2
+91,3,resp,18
+91,-5,resp,14
+91,-5,systolic bp,131
+91,-5,pain score,0
+91,2,systolic bp,111
+91,1,hr,71
+91,0,diastolic bp,49
+91,3,pain score,5
+91,-5,hr,61
+92,0,pain score,0
+92,0,resp,16
+92,-6,resp,16
+92,0,functional status,7
+92,-6,diastolic bp,74
+92,-6,pain score,0
+92,1,systolic bp,128
+92,-6,o2 sat,99
+92,1,resp,22
+92,0,diastolic bp,84
+92,0,systolic bp,153
+92,-6,bmi,27.7
+92,-6,hr,82
+92,1,o2 sat,96
+92,1,diastolic bp,73
+92,-6,systolic bp,118
+92,1,pain score,6
+92,0,o2 sat,100
+92,1,hr,56
+92,0,hr,59
+93,-3,hr,75
+93,0,systolic bp,118
+93,1,hr,72
+93,1,o2 sat,96
+93,-3,bmi,25.8
+93,0,temp,37
+93,-3,systolic bp,119
+93,0,pain score,0
+93,-3,pain score,0
+93,0,diastolic bp,68
+93,1,diastolic bp,57
+93,-3,o2 sat,98
+93,0,o2 sat,99
+93,0,bmi,0
+93,0,resp,20
+93,0,functional status,7
+93,1,systolic bp,98
+93,-3,resp,75
+93,1,resp,16
+93,-3,temp,36.4
+93,1,temp,35.7
+93,-3,diastolic bp,68
+93,0,hr,77
+95,-7,bmi,28.8
+95,1,hr,67
+95,0,pain score,7
+95,0,diastolic bp,80
+95,1,pain score,0
+95,0,o2 sat,99
+95,0,systolic bp,133
+95,0,bmi,29.7
+95,0,resp,18
+95,1,resp,18
+95,1,o2 sat,97
+95,0,hr,59
+95,1,diastolic bp,59
+95,0,functional status,7
+95,1,systolic bp,126
+99,-6,hr,59
+99,-6,diastolic bp,65
+99,0,hr,57
+99,0,o2 sat,100
+99,-6,o2 sat,100
+99,0,diastolic bp,73
+99,0,bmi,23.1
+99,-6,bmi,23.1
+99,0,functional status,7
+99,0,pain score,1
+99,0,systolic bp,111
+99,-6,systolic bp,114
+99,0,resp,16
