@@ -1,6 +1,4 @@
-,,result,result,result,result,result,result,result,result,result,result,result
-risk_factor,,alcohol amount,alcohol use,bmi,diastolic bp,functional status,hr,o2 sat,pain score,resp,systolic bp,temp
-deid,admit_day,,,,,,,,,,,
+deid,admit_day,vital alcohol amount,vital alcohol use,vital bmi,vital diastolic bp,vital functional status,vital hr,vital o2 sat,vital pain score,vital resp,vital systolic bp,vital temp
 5,-1,,,41.1,90,,57,99,,18,158,
 5,0,,,41.1,74,7,90,97,4,18,152,
 5,1,,,,88,,105,99,1,20,191,
