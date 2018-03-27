@@ -20,14 +20,22 @@ def main_by_day(main_df):
    return new_main_df
 
 def process_vitals(vitals_df):
+   # Remove values before admit to hospital
+   new_vitals_df = vitals_df[vitals_df['admit_time_day'] >= 0]
+   # Get Min and Max and rename what will be new columns
+   min_vitals_df = new_vitals_df.loc[new_vitals_df.groupby(['deid','risk_factor'])['admit_time_day'].idxmin()]   
+   min_vitals_df['risk_factor'] = 'V ' + min_vitals_df['risk_factor'] + ' 1' 
+   max_vitals_df = new_vitals_df.loc[new_vitals_df.groupby(['deid','risk_factor'])['admit_time_day'].idxmax()]
+   max_vitals_df['risk_factor'] = 'V ' + max_vitals_df['risk_factor'] + ' 2'
+   new_vitals_df = min_vitals_df.append(max_vitals_df)
    # Remove columns not needed
-   new_vitals_df = vitals_df.drop('admit_time_day', 1)
-   # Aggregate only keeping the 1st value
-   new_vitals_df = new_vitals_df.pivot_table(index=['deid','admit_day'], columns='risk_factor', aggfunc='first')
-   # Rename the risk_factor column headers to be "vital [risk_factor]"
-   new_vitals_df.columns = [" ".join(('vital',j)) for i,j in new_vitals_df.columns]
-   # Remove the hierarchy of indexes to be no index
-   new_vitals_df.reset_index()
+   new_vitals_df = new_vitals_df.drop(['admit_day','admit_time_day'], 1)
+   # Pivot
+   new_vitals_df = new_vitals_df.pivot_table(index='deid', columns='risk_factor', aggfunc='first')
+   # Sort columns to get 1st and last day together
+   new_vitals_df = new_vitals_df.reindex(sorted(new_vitals_df.columns), axis=1)
+   new_vitals_df = new_vitals_df.xs('result', axis=1, drop_level=True)
+   
    return new_vitals_df
    
 def process_labs(labs_df):

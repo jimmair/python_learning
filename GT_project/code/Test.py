@@ -97,7 +97,7 @@ def join_dataframes(left_df,right_df,join_index):
    return joined_df
    
 if __name__== "__main__":
-   vitals_df = read_to_df('../data_in/vitals_extract_GT.csv')
+   vitals_df = read_to_df('../data_in/vitals_extract_GT_small.csv')
 
    
    ranges_df = read_to_df('../data_in/normal_ranges.csv')
@@ -107,15 +107,16 @@ if __name__== "__main__":
    #test_df = join_dataframes(vitals_df,vitals_ranges_df,['risk_factor'])
    #test_df.loc[test_df['result'] < test_df['low'], 'range'] == -1
    #test_df.loc[test_df['result'] > test_df['high'], 'range'] == 1
-   vitals_df = vitals_df.replace('Date\Time Correction', np.nan)
-   print (vitals_ranges_df)
+   #vitals_df = vitals_df.replace('Date\Time Correction', np.nan)
+   vitals_df['results'] = pd.to_numeric(vitals_df['result'], errors='coerce')
+   print (vitals_df[:25])
    #print (vitals_df)
    #print (test_df[:5])
    
    vitals_df = process_vitals(vitals_df)
    #vitals_df[vitals_df['vital hr'].astype(str).str.isdigit()]
-   vitals_df.loc[vitals_df['vital hr'].astype(int) < 40, 'range'] == -1
-   vitals_df.loc[vitals_df['vital hr'].astype(int) > 130, 'range'] == 1
-   print (vitals_df[:5])
-   write_df('../data_out/vitals_extract_GT_pivot2.csv',vitals_df)
+   #vitals_df.loc[vitals_df['vital hr'].astype(int) < 40, 'range'] == -1
+   #vitals_df.loc[vitals_df['vital hr'].astype(int) > 130, 'range'] == 1
+   print (vitals_df['vital hr'])
+   #write_df('../data_out/vitals_extract_GT_pivot2.csv',vitals_df)
   
